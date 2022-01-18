@@ -69,7 +69,7 @@ author:
   bio    : "DeepZoom releases, trips, and features."
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-mail"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:jay@deepzoom.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
