@@ -5,3 +5,16 @@
 - Report bugs and issues: [https://github.com/jaybo/deepzoom-blog/issues](https://github.com/jaybo/deepzoom-blog/issues)
 
 - Join the discussion forum: [https://github.com/jaybo/deepzoom-blog/discussions](https://github.com/jaybo/deepzoom-blog/discussions)
+
+
+
+
+
+
+
+
+
+
+
+
+bundle exec jekyll serve --force_polling

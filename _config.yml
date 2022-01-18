@@ -14,14 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DeepZoom Blog
+subtitle: "Trips on the water"
 email: jay@deepzoom.com
 description: >- # this means to ignore newlines until "baseurl:"
   DeepZoom helps you plan trips on the water.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "jaybo/deepzoom-blog"
+logo: "/assets/images/favicon-96x96.png"
+og_image: "assets/images/og_image.png"
+
 twitter_username: jayborseth
 github_username:  jaybo
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -32,6 +37,7 @@ permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
 
 include:
   - _pages
@@ -60,8 +66,11 @@ plugins:
 author:
   name   : "Jay Borseth"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Welcome to my Covid-19 project."
+  bio    : "DeepZoom releases, trips, and features."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-mail"
+      url: "mailto:jay@deepzoom.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.deepzoom.com"
@@ -71,6 +80,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jaybo"
+
 
 
 footer:
@@ -92,9 +102,12 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      words_per_minute: 75
       comments: false
       share: true
       related: true
+      show_date: true
+      classes: wide
   # _pages
   - scope:
       path: "_pages"
