@@ -20,12 +20,14 @@ This is the shorter, direct route.
 [![](/assets/images/trip-arc.png)](https://www.deepzoom.com/trip/6b8d958m)
 
 Try it out: [https://www.deepzoom.com/trip/6b8d958m](https://www.deepzoom.com/trip/6b8d958m)
+{: .notice--warning}
 
 ### ARC+ 2022 
 
 The longer route departs a few days later, with a stopover in Mindelo, Sao Vicente.
 
 Try it out: [https://www.deepzoom.com/trip/bktytsf9](https://www.deepzoom.com/trip/bktytsf9)
+{: .notice--warning}
 
 
 

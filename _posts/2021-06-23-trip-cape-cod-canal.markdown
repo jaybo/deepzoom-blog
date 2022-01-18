@@ -18,6 +18,7 @@ or only by persons with whom you share a link.
 In either case, just copy the link and share it with anyone you want:
 
 [https://www.deepzoom.com/trip/2afkdq6g](https://www.deepzoom.com/trip/2afkdq6g)
+{: .notice--warning}
 
 
 

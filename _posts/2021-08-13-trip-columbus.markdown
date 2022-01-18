@@ -47,6 +47,7 @@ Columbus was sailing pretty much straight down wind.
 [![](/assets/images/trip-columbus.png)](https://www.deepzoom.com/trip/czjmcvgy)
 
 Try it: [https://www.deepzoom.com/trip/9ngxyhjz](https://www.deepzoom.com/trip/czjmcvgy)
+{: .notice--warning}
 
 
 

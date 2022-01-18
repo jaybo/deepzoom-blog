@@ -14,6 +14,7 @@ San Juan Islands.  Each terrestrial leg is a separate route, and each ferry ride
 [![](/assets/images/trip-bike.png)](https://www.deepzoom.com/trip/9ngxyhjz)
 
 Try it: [https://www.deepzoom.com/trip/9ngxyhjz](https://www.deepzoom.com/trip/9ngxyhjz)
+{: .notice--warning}
 
 To create terrestrial routes, first define start, end, and waypoints as you normally would with 
 aquatic trips.  Then on the routes page, change the mode of transit (driving, walking, biking),
