@@ -1,0 +1,37 @@
+---
+title: "Trip: ARC Atlantic Rally for Cruisers"
+date: '2022-01-10 15:41:20 -0800'
+categories: trip
+lastmod: '2022-01-17T20:41:08.342Z'
+---
+
+### Atlantic Rally for Cruisers
+
+About 200 boats participate annually in the <a href="https://www.worldcruising.com/arc/" target="_blank"> Atlantic Rally for Cruisers (ARC).</a>.
+The 2700 nMi rally follows the trade winds from [Las Palmas de Gran Canaria](https://en.wikipedia.org/wiki/Las_Palmas_de_Gran_Canaria) to [Rodney Bay, Saint Lucia](https://en.wikipedia.org/wiki/Rodney_Bay), in the Caribbean.
+
+These trips are optimized to show wind direction and strength along the route.  To understand how to read the 
+windrose, see this [post](/trip/trip-columbus).
+
+### ARC 2022 Direct
+
+This is the shorter, direct route.
+
+[![](/assets/images/trip-arc.png)](https://www.deepzoom.com/trip/6b8d958m)
+
+Try it out: [https://www.deepzoom.com/trip/6b8d958m](https://www.deepzoom.com/trip/6b8d958m)
+
+### ARC+ 2022 
+
+The longer route departs a few days later, with a stopover in Mindelo, Sao Vicente.
+
+Try it out: [https://www.deepzoom.com/trip/bktytsf9](https://www.deepzoom.com/trip/bktytsf9)
+
+
+
+
+
+
+
+
+

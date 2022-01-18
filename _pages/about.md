@@ -4,7 +4,7 @@ title: "About"
 ---
 
 
-### Features
+### DeepZoom Features
 - Animated tides and currents
 - Animated routes
 - Animated tracks

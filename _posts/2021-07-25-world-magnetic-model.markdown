@@ -1,6 +1,6 @@
 ---
 
-title: DeepZoom 2.1.37 World Magnetic Model.
+title: DeepZoom 2.1.37 World Magnetic Model
 date: '2021-07-25 15:41:20 -0800'
 categories: release
 lastmod: '2022-01-17T20:42:53.015Z'

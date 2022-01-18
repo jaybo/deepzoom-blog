@@ -1,0 +1,30 @@
+---
+title: "Trip: Bike the San Juan Islands"
+date: '2021-06-29 15:41:20 -0800'
+categories: trip
+lastmod: '2022-01-17T20:41:08.342Z'
+---
+
+DeepZoom was designed for trips on the water.  But you can also use it for
+driving, hiking, and biking trips.
+
+Here's an example of a multi-modal trip, biking from Blaine, WA through the 
+San Juan Islands.  Each terrestrial leg is a separate route, and each ferry ride is a separate route.
+
+[![](/assets/images/trip-bike.png)](https://www.deepzoom.com/trip/9ngxyhjz)
+
+Try it: [https://www.deepzoom.com/trip/9ngxyhjz](https://www.deepzoom.com/trip/9ngxyhjz)
+
+To create terrestrial routes, first define start, end, and waypoints as you normally would with 
+aquatic trips.  Then on the routes page, change the mode of transit (driving, walking, biking),
+and your route will be converted to the new mode.
+
+If you need to change the route, the easiest way is just to convert back to the original "great circle" or 
+ship/plane navigation mode, add or change waypoints, and then convert back to driving, walking, or biking.
+
+
+
+
+
+
+

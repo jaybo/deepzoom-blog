@@ -1,0 +1,31 @@
+---
+title: "Trip: Intracoastal Waterway"
+date: '2022-01-10 15:41:20 -0800'
+categories: trip
+lastmod: '2022-01-17T20:41:08.342Z'
+---
+
+### Intracoastal waterway (ICW)
+
+Now that .gpx import is working I needed a really big trip to do some stress testing.  
+
+Ann and Bob Sherer publish a set of .gpx [routes and tracks](https://bobicw.blogspot.com/p/bob423-long-tracks.html) along the ICW.  For reasons unknown to me, these have come to be known as the Bob423 tracks.
+
+I imported these to DeepZoom by just dragging and dropping one or more .gpx files onto the right side panel. Next I converted the tracks to routes using the handy new button on the Tracks panel.  Finally I adjusted some of the dates to form a reasonable itinerary, and voila, we have a trip!
+
+The resulting 1067 nMi trip from Norfolk to Key West has seven routes, many thousand waypoints, and a trip duration of 44 days at 6.5 knots with several layovers.
+
+[![](/assets/images/trip-icw.png)](https://www.deepzoom.com/trip/9zwwq9xh)
+
+Try it out: [https://www.deepzoom.com/trip/9zwwq9xh](https://www.deepzoom.com/trip/9zwwq9xh)
+
+Also, you can add-in their side trips and anchorages by dragging in this [file](http://bob423.com/long/Bob423%20All%20Side%20Tracks.gpx).
+
+
+
+
+
+
+
+
+
