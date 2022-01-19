@@ -9,7 +9,7 @@ og_image: /assets/images/trip-columbus.png
 ### Historical pilot charts
 Pilot Charts show probabilities of wind strength and direction for a particular location and time, 
 to help plan optimal sailing routes.
-Historically, these charts were derived from the logs of thousands of vessels transiting the oceans.
+Historically, these charts were derived by manually collating the logs of thousands of vessels transiting the oceans over the last several hundred years.
 
 Below is an excerpt from a traditional pilot chart for a portion of the southern Pacific ocean during the month of February.
 Each windrose covers a 5°x5° area. The length of the barb indicates the percentage of time the wind blew from that direction,
