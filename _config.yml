@@ -22,7 +22,6 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.deepzoom.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "jaybo/deepzoom-blog"
 logo: "/assets/images/arrow48x48.png"
-og_image: "/assets/images/og_image.png"
 
 twitter_username: jayborseth
 github_username:  jaybo
