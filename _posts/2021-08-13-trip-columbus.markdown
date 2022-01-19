@@ -15,8 +15,7 @@ Below is an excerpt from a traditional pilot chart for a portion of the southern
 Each windrose covers a 5°x5° area. The length of the barb indicates the percentage of time the wind blew from that direction,
 and the barb  style indicates the strength of the wind.
 
-![](/assets/images/pilot-charts.png)
-
+![](/assets/images/pilot-charts.png){: .align-center}
 
 ### DeepZoom pilot charts
 

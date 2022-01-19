@@ -12,7 +12,7 @@ lastmod: '2022-01-17T20:45:30.628Z'
 You can either add them all to the existing Trip, or create a new trip.
 2. Added Export of loaded trip to .gpx file (in Downloads directory).  At present, route departure time and speed are not included.  I'm trying to figure out which of the numerous competing .gpx extensions to support.  If you have any requests or advice on this topic, please let me know.
 
-![](/assets/images/import-export-gpx-kml.png)
+![](/assets/images/import-export-gpx-kml.png){: .align-center}
 
 ### Bug fixes
 3. Fixed a bug in "realtime" timebase.

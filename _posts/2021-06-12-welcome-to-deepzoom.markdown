@@ -21,9 +21,15 @@ Eventually I rebuilt everything using web technologies like Bootstrap and D3.  I
 
 Being largely homebound for the duration of Covid-19 provided an opportunity to rework DeepZoom yet again, this time switching to Quasar/Vue as the primary client framework.  And then came unbridled feature creep: trips, routes, markers, tracks, pilot charts, wikipedia, and the ability to share trip plans with others.
 
+### Credits
+
+I'm much indebted to Morgan Conrad for help with wind data wrangling and Chris Mulverhill for Coast Pilot processing.
+
 ### Where to next?
 
-I'm often at a loss to figure out what features to prioritize next.  I'm just trying to include all of the tools I like to use when planning a voyage of a day, week, or months.  If you have any suggestions, I'd love to hear from you. 
+I'm often at a loss to figure out what features to prioritize next.  
+I'm just trying to include all of the tools I like to use when planning a voyage of a day, week, or months.  If you have any suggestions, 
+I'd love to hear from you on the [discussion forum](https://github.com/jaybo/deepzoom-blog/discussions/categories/ideas).
 
 
 

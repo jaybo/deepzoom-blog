@@ -7,8 +7,9 @@ lastmod: '2022-01-17T20:44:01.227Z'
 ---
 ### New features
 
-This is mostly a fit and finish release.  Lot's of UI and perf improvements plus a new display of relative positions of earth, sun and moon.
+This is mostly a fit and finish release.  Lot's of UI and perf improvements plus a new display of relative positions of earth, sun and moon.  This animation, like everything else in DeepZoom is 
+linked to the timebase.  The timebase is accessed by clicking on the time readout at the lower center of the screen.
 
-![](/assets/images/sun-earth-moon.png)
+![](/assets/images/sun-earth-moon.png){: .align-center}
 
 

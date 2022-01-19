@@ -16,7 +16,7 @@ lastmod: '2022-01-17T20:42:53.015Z'
 
   Each of these can be enabled/disabled individually (see the settings page).  The magnetic course value is derived from the World Magnetic Model (currently WMM2020, valid from 2020-2025). 
 
-  ![](/assets/images/compass.png)
+  ![](/assets/images/compass.png){: .align-center}
 
 ### Bug fixes
 

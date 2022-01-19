@@ -13,6 +13,6 @@ Shows a historical, satellite derived wind strength and direction probability wi
 2. Added scripting support for pilot chart opacity.
 3. "Exit Demo" now does an auto Trip.New, clearing out any existing trip (whether demo, or user created).
 
-![](/assets/images/windrose.png)
+![](/assets/images/windrose.png){: .align-center}
 
 

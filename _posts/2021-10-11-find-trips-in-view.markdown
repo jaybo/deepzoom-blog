@@ -11,7 +11,7 @@ lastmod: '2022-01-17T05:34:04.528Z'
 2. Added "Find" to Trips page.  This will show a list of all public trips within the current view.  Filters are available for "power", "sail", "kayak", and "swim" along with sorting by name, length, duration, and stars.
 3.  Added trip id to url so forward and back browser buttons work.
 
-![](/assets/images/find.png)
+![](/assets/images/find.png){: .align-center}
 
 ### Bug fixes
 
