@@ -23,7 +23,7 @@ and the barb  style indicates the strength of the wind.
 wind strength and direction information](https://chapman.ceoas.oregonstate.edu/scow/index.html).  
 
 The Pilot Charts layer lets you plan a route based on historically measured wind speeds
-and directions. This layer shows a probabilility windrose on a color coded background.
+and directions. This layer shows a probability windrose on a color coded background.
 The background shows mean historical wind speed along with arrows showing mean wind
 direction for each 14 day period.
 
