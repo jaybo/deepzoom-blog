@@ -4,6 +4,7 @@ title: DeepZoom 2.2.3 Find trips in View
 date: '2021-10-11 15:41:20 -0800'
 categories: release
 lastmod: '2022-01-17T05:34:04.528Z'
+og_image: "/assets/images/find.png"
 ---
 
 ### New features

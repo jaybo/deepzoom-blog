@@ -4,6 +4,7 @@ title: DeepZoom 2.1.55 Pilot Charts
 date: '2021-08-13 15:41:20 -0800'
 categories: release
 lastmod: '2022-01-17T20:42:45.815Z'
+og_image: "/assets/images/windrose.png"
 ---
 
 ### New features

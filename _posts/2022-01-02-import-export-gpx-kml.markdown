@@ -4,6 +4,7 @@ title: DeepZoom 2.2.90 Import gpx and kml and export gpx
 date: '2022-01-02 15:41:20 -0800'
 categories: release
 lastmod: '2022-01-17T20:45:30.628Z'
+og_image: "/assets/images/og_image.png"
 ---
 
 ### New features

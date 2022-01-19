@@ -3,6 +3,7 @@ title: DeepZoom 2.0 is ON THE AIR!
 date: '2021-06-12 15:41:20 -0800'
 categories: release
 lastmod: '2022-01-17T20:41:08.342Z'
+og_image: "/assets/images/og_image.png"
 ---
 
 ### Watch the video:  

@@ -9,7 +9,7 @@ og_image: /assets/images/trip-columbus.png
 ### Historical pilot charts
 Pilot Charts show probabilities of wind strength and direction for a particular location and time, 
 to help plan optimal sailing routes.
-Historically, these charts were derived by manually collating the logs of thousands of vessels transiting the oceans over the last several hundred years.
+Historically, these charts were derived by manually collating the logs of thousands of vessels transiting the oceans over the last few hundred years.
 
 Below is an excerpt from a traditional pilot chart for a portion of the southern Pacific ocean during the month of February.
 Each windrose covers a 5°x5° area. The length of the barb indicates the percentage of time the wind blew from that direction,
@@ -23,7 +23,7 @@ and the barb  style indicates the strength of the wind.
 wind strength and direction information](https://chapman.ceoas.oregonstate.edu/scow/index.html).  
 
 The Pilot Charts layer lets you plan a route based on historically measured wind speeds
-and directions. This layer shows a probablility windrose on a color coded background.
+and directions. This layer shows a probabilility windrose on a color coded background.
 The background shows mean historical wind speed along with arrows showing mean wind
 direction for each 14 day period.
 
