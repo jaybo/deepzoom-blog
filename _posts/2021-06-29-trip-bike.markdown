@@ -3,6 +3,7 @@ title: "Trip: Bike the San Juan Islands"
 date: '2021-06-29 15:41:20 -0800'
 categories: trip
 lastmod: '2022-01-17T20:41:08.342Z'
+og_image: /assets/images/trip-bike.png
 ---
 
 DeepZoom was designed for trips on the water.  But you can also use it for

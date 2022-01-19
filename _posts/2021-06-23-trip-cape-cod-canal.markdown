@@ -3,6 +3,7 @@ title: "Trip: Cape Cod Canal"
 date: '2021-06-23 15:41:20 -0800'
 categories: trip
 lastmod: '2022-01-17T20:41:08.342Z'
+og_image: "/assets/images/cape-cod-canal.png"
 ---
 
 

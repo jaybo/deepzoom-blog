@@ -3,6 +3,7 @@ title: "Trip: Wellington to Picton New Zealand"
 date: '2021-06-22 15:41:20 -0800'
 categories: trip
 lastmod: '2022-01-17T20:41:08.342Z'
+og_image: "/assets/images/wellington-picton.png"
 ---
 
 

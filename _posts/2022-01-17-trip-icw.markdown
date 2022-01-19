@@ -3,6 +3,7 @@ title: "Trip: Intracoastal Waterway"
 date: '2022-01-10 15:41:20 -0800'
 categories: trip
 lastmod: '2022-01-17T20:41:08.342Z'
+assets: /assets/images/trip-icw.png
 ---
 
 ### Intracoastal waterway (ICW)

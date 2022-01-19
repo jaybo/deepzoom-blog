@@ -3,6 +3,7 @@ title: "Trip: ARC Atlantic Rally for Cruisers"
 date: '2022-01-10 15:41:20 -0800'
 categories: trip
 lastmod: '2022-01-17T20:41:08.342Z'
+og_image: /assets/images/trip-arc.png
 ---
 
 ### Atlantic Rally for Cruisers
