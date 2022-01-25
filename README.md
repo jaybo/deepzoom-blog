@@ -16,5 +16,5 @@
 
 
 
-
+Ubuntu -20.04 (WSL)
 bundle exec jekyll serve --force_polling
