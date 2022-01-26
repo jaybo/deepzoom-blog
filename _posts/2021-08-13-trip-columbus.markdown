@@ -20,7 +20,7 @@ and the barb  style indicates the strength of the wind.
 ### DeepZoom pilot charts
 
 **DeepZoom does the same thing on steroids.**  Instead of using the ship historical data, DeepZoom uses [satellite derived 
-wind strength and direction information](https://chapman.ceoas.oregonstate.edu/scow/index.html).  
+wind strength and direction information](https://chapman.ceoas.oregonstate.edu/scow/index.html) displayed as a polar histogram.  
 
 The Pilot Charts layer lets you plan a route based on historically measured wind speeds
 and directions. This layer shows a probability windrose on a color coded background.
@@ -49,9 +49,15 @@ Columbus was sailing pretty much straight down wind.
 Try it: [https://www.deepzoom.com/trip/9ngxyhjz](https://www.deepzoom.com/trip/czjmcvgy)
 {: .notice--warning}
 
+### Another cool polar histogram example
 
+Entropy levels of 100 world cities by the orientation of streets.   
+Most ordered streets: Chicago, Miami, & Minneapolis. <br/>
+Most disordered: Charlotte, Sao Paulo, Rome & Singapore. Paper: 
 
+![city street orientation graph](/assets/images/city-rose.jpg){: .align-center}
 
+[credits](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0189-1)
 
 
 
