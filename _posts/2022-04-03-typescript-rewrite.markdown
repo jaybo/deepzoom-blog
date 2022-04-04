@@ -15,7 +15,7 @@ and adopting modern features of the language as it evolved every few years.
 Overall, the experience has been terrifying.  Coming from a background in strongly typed languages such as C, C++, and C#, the whole dynamic nature of JavaScript where a variable can
 morph to contain content of any type has been disquieting.  Gary Bernhardt has a fun video on the subject of JavaScript inconsistencies: <a href="https://www.destroyallsoftware.com/talks/wat" target="_blank"> Wat</a>
 
-<a href="https://www.destroyallsoftware.com/talks/wat" target="_blank"> <img src="/assets/images/Wat.png"/></a>{: .align-center}
+<a href="https://www.destroyallsoftware.com/talks/wat" target="_blank"> <img src="/assets/images/WAT.png"/></a>{: .align-center}
 
 Some typical JavaScript madness:
 
