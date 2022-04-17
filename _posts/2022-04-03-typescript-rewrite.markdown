@@ -26,7 +26,7 @@ k = 42
 k = lifeTheUniverseEverything(k)
 ```
 
-Equally frightening, DeepZoom is directly dependent on ~40 other libraries of code, which in turn rely on over 1,300 other libraries.  Any 
+Equally frightening, DeepZoom is directly dependent on ~40 other NPM packages (code libraries), which in turn rely on over 1,300 other libraries.  Any 
 of which can be randomly updated, bugs added or fixed, and behaviors changed.  In a typical week two or three of the direct dependency libraries will be updated.
 
 Meanwhile DeepZoom continues to grow.  It's currently about 80 files, and about 30,000 lines of code (not counting images and other assets).  
