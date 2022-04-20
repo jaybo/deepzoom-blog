@@ -23,7 +23,7 @@ If DeepZoom ever grows up to play in the big leagues, it will need to face this 
 
 
 
-Try it: [https://www.deepzoom.com/trip/f5m3jxbz]:https://www.deepzoom.com/trip/f5m3jxbz
+Try it: [https://www.deepzoom.com/trip/f5m3jxbz](https://www.deepzoom.com/trip/f5m3jxbz)
 {: .notice--warning}
 
 
