@@ -1,7 +1,7 @@
 ---
-title: "Tide data refresh"
+title: "DeepZoom 2.2.112 Tide data refresh"
 date: "2022-01-24 15:41:20 -0800"
-categories: trip
+categories: trip release
 lastmod: "2022-01-17T20:41:08.342Z"
 og_image: /assets/images/og_image.png
 ---

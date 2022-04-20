@@ -2,7 +2,7 @@
 
 title: DeepZoom 2.1.13 Walk, bike, drive, or boat?
 date: '2021-06-29 15:41:20 -0800'
-categories: release
+categories: release trip
 lastmod: '2022-01-17T20:34:20.077Z'
 og_image: "/assets/images/bike.png"
 ---
