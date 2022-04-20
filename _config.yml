@@ -127,3 +127,9 @@ facebook:
 
 twitter:
   username: "jayborseth"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-XCCGXSBT2K"
+    anonymize_ip: false # default
