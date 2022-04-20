@@ -8,7 +8,7 @@ og_image: /assets/images/snipVertex.png
 
 ### New features
 
-![](/assets/images/snipVertex.png){: .align-center}
+![](/assets/images/SnipVertex.png){: .align-center}
 
 1. Many improvements to route editing.  Of particular note is the ability to split routes using the snip tool (scissors icon in the above image).
 2. Added the ability to attach scripts to Markers.  At present, this means script actions can be triggered at any of the following times.
