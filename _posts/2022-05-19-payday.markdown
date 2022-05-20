@@ -1,0 +1,24 @@
+---
+title: "DeepZoom 2.4.6 PayDay"
+date: "2022-05-19 12:00:00 -0800"
+categories: release
+lastmod: "2022-05-19 12:00:00 -0800"
+og_image: /assets/images/payday.png
+---
+
+### New features
+
+![](/assets/images/payday.png){: .align-center}
+
+1. The pleasure of intermittently developing DeepZoom over the last ~15 years has included a total outlay of something like $12K for hosting, insurance, Mapbox, domain name, and some contract programming.
+   Which of course doesn't include anything for my time, personal computers, or, er, profit. So Ducky has urged me to try out a voluntary annual subscription model. Subscription fulfillment is via Stripe.
+   The promised ability allowing subscribers to add comments, photos, (and videos?) to public Markers and Trips will be coming on line over the summer.
+
+2. Added upper left hamburger menu for account access.
+
+3. Top Search button brings up dialog to either search for a named place or for trips in view.
+
+### Bug fixes
+
+1. Logging in was sometimes flakey. Fixed.
+2. Unselected tide stations no longer show tidal heights.
