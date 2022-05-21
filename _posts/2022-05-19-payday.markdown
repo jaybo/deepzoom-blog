@@ -1,20 +1,19 @@
 ---
 title: "DeepZoom 2.4.6 PayDay"
 date: "2022-05-19 12:00:00 -0800"
-categories: release
+categories: release trip
 lastmod: "2022-05-19 12:00:00 -0800"
 og_image: /assets/images/payday.png
 ---
 
 ### New features
 
-![](/assets/images/payday.png){: .align-center}
-
 1. The pleasure of intermittently developing DeepZoom over the last ~15 years has included a total outlay of something like $12K for hosting, insurance, Mapbox, domain name, and some contract programming.
    Which of course doesn't include anything for my time, personal computers, or, er, profit. So Ducky has urged me to try out a voluntary annual subscription model. Subscription fulfillment is via Stripe.
    The promised ability allowing subscribers to add comments, photos, (and videos?) to public Markers and Trips will be coming on line over the summer.
 
-2. Added upper left hamburger menu for account access.
+    ![](/assets/images/payday.png){: .align-center style="border: 1px solid #aaa"}
+2. Added upper left hamburger menu for account access on desktop.  Simplified hamburger menu on phones.
 
 3. Top Search button brings up dialog to either search for a named place or for trips in view.
 
@@ -22,3 +21,12 @@ og_image: /assets/images/payday.png
 
 1. Logging in was sometimes flakey. Fixed.
 2. Unselected tide stations no longer show tidal heights.
+
+### Newport to Bermuda Race 2022
+
+The 2022 Newport to Bermuda race is kicking off June 17th.  Here's the historical windrose data for the race.
+
+[![](/assets/images/NewportBermuda2022.png)](https://deepzoom.com/trip/cmmqy69y){: .align-center}
+
+Try it: [https://deepzoom.com/trip/cmmqy69y](https://deepzoom.com/trip/cmmqy69y)
+{: .notice--warning}
