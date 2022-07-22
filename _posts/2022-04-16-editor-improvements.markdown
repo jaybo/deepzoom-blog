@@ -1,5 +1,5 @@
 ---
-title: "DeepZoom 2.3.23 Trip editing improvements"
+title: "Trip editing improvements - v2.3.23"
 date: "2022-04-16 12:00:00 -0800"
 categories: release
 lastmod: "2022-01-17T20:41:08.342Z"

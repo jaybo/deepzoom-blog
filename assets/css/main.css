@@ -176,7 +176,7 @@ audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
 /* Prevents modern browsers from displaying 'audio' without controls */
 audio:not([controls]) { display: none; }
 
-a { color: #6262eb; }
+a { color: #6060cb; }
 
 /* Apply focus state */
 /* Remove outline from links */
@@ -218,7 +218,7 @@ html { /* sticky footer fix */ position: relative; min-height: 100%; }
 body { margin: 0; padding: 0; color: #000; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; line-height: 1.5; }
 body.overflow--hidden { /* when primary navigation is visible, the content in the background won't scroll */ overflow: hidden; }
 
-h1, h2, h3, h4, h5, h6 { margin: 2em 0 0.5em; line-height: 1.2; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-weight: bold; }
+h1, h2, h3, h4, h5, h6 { margin: 1em 0 0.5em; line-height: 1.2; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; font-weight:600; }
 
 h1 { margin-top: 0; font-size: 1.563em; }
 
@@ -547,9 +547,9 @@ tr, td, th { vertical-align: middle; }
 
 .site-logo img { max-height: 2rem; }
 
-.site-title { display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-item-align: center; align-self: center; font-weight: bold; }
+.site-title { display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-item-align: center; align-self: center; font-weight: 350; font-size:0.9em}
 
-.site-subtitle { display: block; font-size: 0.625em; }
+.site-subtitle { display: block; font-size: 0.7em; }
 
 .masthead__menu { float: left; margin-left: 0; margin-right: 0; width: 100%; clear: both; }
 .masthead__menu .site-nav { margin-left: 0; }
@@ -1242,10 +1242,10 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
   html { margin: 0; padding: 0; min-height: auto !important; font-size: 16px; }
   body { margin: 0 auto; background: #fff !important; color: #000 !important; font-size: 1rem; line-height: 1.5; -moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
-  h1, h2, h3, h4, h5, h6 { color: #000; line-height: 1.2; margin-bottom: 0.75rem; margin-top: 0; }
-  h1 { font-size: 2.5rem; }
-  h2 { font-size: 2rem; }
-  h3 { font-size: 1.75rem; }
+  h1, h2, h3, h4, h5, h6 { color: rgb(36, 36, 36); line-height: 1.2; margin-bottom: 0.75rem; margin-top: 0; }
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.7rem; }
+  h3 { font-size: 1.65rem; }
   h4 { font-size: 1.5rem; }
   h5 { font-size: 1.25rem; }
   h6 { font-size: 1rem; }

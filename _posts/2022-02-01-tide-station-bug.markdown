@@ -1,5 +1,5 @@
 ---
-title: "DeepZoom 2.2.17 Tide selection annoyance"
+title: "Tide selection annoyance - v2.2.17"
 date: "2022-02-01 15:41:20 -0800"
 categories: trip
 lastmod: "2022-01-17T20:41:08.342Z"

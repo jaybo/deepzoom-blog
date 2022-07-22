@@ -1,0 +1,83 @@
+---
+title: The Pine Tar Experiment
+date: 2022-07-17 12:00:00 -0800
+categories: random
+lastmod: 2022-07-17T20:34:20.077Z
+og_image: /assets/images/Serenade-after.jpg
+draft: false
+---
+
+I promise to not clutter this blog with non-DeepZoom deviations into politics or religion.
+But since the following topic consumes ~10% of my total brain capacity and likely counts as a form of OCD, I'm compelled to share.
+    
+**Brightwork**
+
+![](/assets/images/Serenade-after.jpg){: .align-center style="border: 1px solid #aaa"}
+
+We purchased Serenade, a 1997 Pacific Seacraft 40' cutter, in 2001.  She had been well maintained, with many coats of expertly applied varnish on the exposed teak.
+Over the next 12 years, I slowly learned the craft of varnishing: an endless cycle of scraping, sanding, taping, painting, dripping, and cleanup.
+The commitment to maintain that gleaming wood seemed excessive, but so was the rate of decay without continuous maintenance.
+
+Finally, the caprail was beyond the point of repair, so I tore off the varnish and began the process of going *au naturel*. For the 
+next decade I progressively removed varnish from other exposed areas and let the wood turn silver, protected only by the naturally high teak oil content.  This approach works for wood which is
+frequently splashed with salt water, which both cleans and protects the wood.  
+
+But the Seattle waterfront isn't especially clean, the marina is under the flight paths of Boeing and SeaTac airports, and we're making fewer trips out of the relatively placid waters of Puget Sound.  So 
+the silver would often turn to a dark grunge and I began to notice moss and small plants growing from difficult-to-clean crevices.
+Then the bung plugs started popping out and the wood loss became visible so it was time to change course once again.
+
+**Returning to my roots**
+
+Norwegian [stave churches](https://en.wikipedia.org/wiki/Stave_church) made entirely of wood have lasted for a millennium.  
+How do they do it?
+
+![](/assets/images/urnes_stave_church.jpg){: .align-center style="border: 1px solid #aaa"}
+
+The exterior coating is primarily composed of [pine tar](https://www.atlasobscura.com/articles/stave-church-tar-conservation), an ingredient in many "boat soup" recipes.  Boat soup is traditionally a mixture of left-over varnish, pine tar, gum turpentine, and boiled linseed oil,
+applied more for protection than aesthetics.  The pine tar is usually a dark and thick variety and makes up maybe 10-33% of the mixture.  The dark tar and aging linseed oil causes the mixture to darken with age.  Not especially attractive.
+
+**A different tack**
+
+One of the nastier aspects of varnishing is the high level of VOCs emitted during the process.  So I've been on a quest for an alternative protection which is low maintenance, less toxic, easy to apply, cheap, and beautiful.  Finally I was swayed by the 
+description of [*Dalburnt Pine Tar*](http://solventfreepaint.com/pine-tar.htm): 
+
+  * Dalburnt Pine Tar is a pure, natural product with a **golden color**, low content of pitch, high resin content and high purity. Kiln Burned Pine Tar is a high performance tar especially for medical purposes but also for veterinary use as well as for wood and wood preservation.
+
+  * Dalburnt Pine Tar is used as an ingredient in shampoos, soaps, expectorants and in ointments against allergic rash, psoriasis and eczema, among others.
+
+  * Heat up the Pine tar to 50 – 60 °C in a water bath and mix with purified raw Linseed Oil to make the material thinner and easier to apply. You will also achieve a better finish and increase the penetration of the wood. Apply only a thin layer of Pine Tar when treating your wooden surface for a best result
+
+So I got a $10 crock pot from Amazon, assembled the ingredients and waited for a warm summer day.
+
+**Prep work**
+
+Since the teak had been left in the elements for a decade, I did a quick sanding of the caprail with 80 grit to level off the worst of the hardwood/softwood ridges. The
+remaining cockpit teak was wet sanded with Dalys Tung oil and 120 grit sand paper just to bring out the wood grain a bit more, and left to dry for a week.  Overall, a somewhat slapdash prep effort...
+
+**Application**
+
+The pine tar and raw linseed oil were mixed 50/50 and warmed in the crock pot with a water bath to 140-160° F. A light coating was applied to the wood with a foam brush, left to soak in for 5-10 minutes, and finally the excess wiped off.  No taping. Almost no drips or spills and the few small messes
+cleaned up easily with mineral spirits.  
+
+The smell was like being in the middle of a campfire, wondering if smore fixings were available.  Overwhelmingly intense; like floating in a turpene bath.  
+
+I came back the next day to clean up any drips since it had rained lightly overnight (not a problem).  The smell had only marginally diminished.  The crew on the neighboring sailboat had watched my progress with interest the previous day. They reported that after I left, the marina staff were running up and down the docks, peering through portholes trying to figure out which vessel was on fire! They pointed to Serenade's brightwork, everyone came over for a sniff, and the mystery was solved.
+
+Since the caprail looked pleasing enough I brought out the crock pot again and mixed up another batch for the cockpit teak.  The was applied OVER the Daly's Tung Oil applied a week earlier.  Now I'm really winging it...  
+
+*BEWARE OF THE OILY RAGS!  THEY CAN SPONTANEOUSLY COMBUST!*  
+Either immerse rags in water or keep them spread out and well ventilated until dry.
+
+**Unknowns**
+
+  * Will this mixture darken excessively over time?  If too dark, the wood becomes uncomfortable in the sun underfoot and undertuchus.
+  * How much maintenance will be required?
+  * Will the presence of the linseed oil deep in the wood actually *increase* the rate of decay since it provides food for fungi?  Or will the pine tar antiseptic properties limit this effect?
+
+**Results**
+
+  * 2 weeks. Lovely.  The wood looks rich and well oiled.  Some areas which were not well sanded have raised grain.  The smell is fading, although it will take up to 6 weeks for the raw linseed oil to fully cure.  Surfaces feel dry to the touch and don't stain clothing.
+  ![](/assets/images/Serenade-after.jpg){: .align-center style="border: 1px solid #aaa"}
+
+  * To be continued...
+

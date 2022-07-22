@@ -1,5 +1,5 @@
 ---
-title: "DeepZoom 2.3.0 The TypeScript rewrite"
+title: "The TypeScript rewrite - v2.3"
 date: "2022-04-03 12:00:00 -0800"
 categories: release trip
 lastmod: "2022-01-17T20:41:08.342Z"

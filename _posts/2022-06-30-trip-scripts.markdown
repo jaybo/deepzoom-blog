@@ -1,5 +1,5 @@
 ---
-title: "DeepZoom 2.5.0 Scripting Routes"
+title: "Scripting Routes - v2.5"
 date: "2022-06-30 12:00:00 -0800"
 categories: release trip
 lastmod: "2022-06-30T20:34:20.077Z"

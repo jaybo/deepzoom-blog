@@ -1,6 +1,6 @@
 ---
 
-title: DeepZoom 2.2.62 Earth, sun, and moon
+title: Earth, sun, and moon - v2.2.62
 date: '2021-12-09 15:41:20 -0800'
 categories: release
 lastmod: '2022-01-17T20:44:01.227Z'

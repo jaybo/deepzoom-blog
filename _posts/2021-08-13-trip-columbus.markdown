@@ -1,5 +1,5 @@
 ---
-title: "Trip: Columbus to America, trip 1"
+title: "Trip: Columbus sails to America in 1492"
 date: '2021-08-13 15:41:20 -0800'
 categories: trip
 lastmod: '2022-01-17T20:41:08.342Z'

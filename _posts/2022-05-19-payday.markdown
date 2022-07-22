@@ -1,5 +1,5 @@
 ---
-title: "DeepZoom 2.4.6 PayDay"
+title: "PayDay - v2.4"
 date: "2022-05-19 12:00:00 -0800"
 categories: release trip
 lastmod: "2022-05-19T20:41:08.342Z"
