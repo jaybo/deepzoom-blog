@@ -1,8 +1,8 @@
 ---
 title: Rich Media - v2.6
-date: 2022-07-26 15:41:20 -0800
+date: 2022-10-26 15:41:20 -0800
 categories: release
-lastmod: 2022-07-29T20:44:01.227Z
+lastmod: 2022-10-26T20:44:01.227Z
 og_image: /assets/images/rich-media-langley.png
 draft: true
 ---
