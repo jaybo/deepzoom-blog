@@ -7,7 +7,7 @@ og_image: "/assets/images/cape-cod-canal.png"
 ---
 
 
-[![](/assets/images/cape-cod-canal.png)](https://www.deepzoom.com/trip/2afkdq6g)
+[![](/assets/images/cape-cod-canal.png)](https://www.deepzoom.com/trip/tzxm43mv)
 
 
 DeepZoom works worldwide for trip planning.  Here's an example of transiting the Cape Cod Canal 
@@ -18,7 +18,7 @@ or only by persons with whom you share a link.
 
 In either case, just copy the link and share it with anyone you want:
 
-[https://www.deepzoom.com/trip/2afkdq6g](https://www.deepzoom.com/trip/2afkdq6g)
+[https://www.deepzoom.com/trip/tzxm43mv](https://www.deepzoom.com/trip/tzxm43mv)
 {: .notice--warning}
 
 

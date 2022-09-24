@@ -20,9 +20,9 @@ Tip!  You can adjust the starting date for all routes in a trip in one operation
 {: .notice}
 
 
-[![](/assets/images/trip-icw.png)](https://www.deepzoom.com/trip/9zwwq9xh)
+[![](/assets/images/trip-icw.png)](https://www.deepzoom.com/trip/y88qfms3)
 
-Try it out: [https://www.deepzoom.com/trip/9zwwq9xh](https://www.deepzoom.com/trip/9zwwq9xh)
+Try it out: [https://www.deepzoom.com/trip/y88qfms3](https://www.deepzoom.com/trip/y88qfms3)
 {: .notice--warning}
 
 Tip! you can add-in Bob423's side trips and anchorages by dragging in this [file](http://bob423.com/long/Bob423%20All%20Side%20Tracks.gpx).

@@ -42,11 +42,11 @@ The bar from due east ending in the number "42", indicates that the wind was blo
 cardinal direction 42% of the time.  The wind was under 20 knots about 40% of the time, and there was
 an easterly component virtually all the time.
 
-Columbus was sailing pretty much straight down wind.
+Columbus was likely sailing straight down wind most of the westward voyage.
 
-[![](/assets/images/trip-columbus.png)](https://www.deepzoom.com/trip/czjmcvgy)
+[![](/assets/images/trip-columbus.png)](https://www.deepzoom.com/trip/qe778dsf)
 
-Try it: [https://www.deepzoom.com/trip/9ngxyhjz](https://www.deepzoom.com/trip/czjmcvgy)
+Try it: [https://www.deepzoom.com/trip/qe778dsf](https://www.deepzoom.com/trip/qe778dsf)
 {: .notice--warning}
 
 ### Another cool polar histogram example

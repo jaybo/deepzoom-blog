@@ -57,7 +57,7 @@ The relief is palpable.
 
 To test all this new functionality, I created a Trip based on our 2001 expedition from Seattle to Glacier Bay aboard s/v Serenade.  The trip includes 28 routes, and has a duration of about a month.
 
-[![](/assets/images/iPhoneGlacierBay.png)](https://www.deepzoom.com/trip/bjwhbzpv)
+[![](/assets/images/iPhoneGlacierBay.png)](https://www.deepzoom.com/trip/4jvmcnf6)
 
-Try it: [https://www.deepzoom.com/trip/bjwhbzpv](https://www.deepzoom.com/trip/bjwhbzpv)
+Try it: [https://www.deepzoom.com/trip/4jvmcnf6](https://www.deepzoom.com/trip/4jvmcnf6)
 {: .notice--warning}

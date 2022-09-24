@@ -12,9 +12,9 @@ driving, hiking, and biking trips.
 Here's an example of a multi-modal trip, biking from Blaine, WA through the 
 San Juan Islands.  Each terrestrial leg is a separate route, and each ferry ride is a separate route.
 
-[![](/assets/images/trip-bike.png)](https://www.deepzoom.com/trip/9ngxyhjz)
+[![](/assets/images/trip-bike.png)](https://www.deepzoom.com/trip/5vj44sv9)
 
-Try it: [https://www.deepzoom.com/trip/9ngxyhjz](https://www.deepzoom.com/trip/9ngxyhjz)
+Try it: [https://www.deepzoom.com/trip/5vj44sv9](https://www.deepzoom.com/trip/5vj44sv9)
 {: .notice--warning}
 
 To create terrestrial routes, first define start, end, and waypoints as you normally would with 

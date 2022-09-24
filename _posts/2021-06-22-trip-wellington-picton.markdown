@@ -7,7 +7,7 @@ og_image: "/assets/images/wellington-picton.png"
 ---
 
 
-[![](/assets/images/wellington-picton.png)](https://www.deepzoom.com/trip/9ngxyhjz)
+[![](/assets/images/wellington-picton.png)](https://www.deepzoom.com/trip/8kf4y29p)
 
 
 
@@ -23,7 +23,7 @@ If DeepZoom ever grows up to play in the big leagues, it will need to face this 
 
 
 
-Try it: [https://www.deepzoom.com/trip/f5m3jxbz](https://www.deepzoom.com/trip/f5m3jxbz)
+Try it: [https://www.deepzoom.com/trip/8kf4y29p](https://www.deepzoom.com/trip/8kf4y29p)
 {: .notice--warning}
 
 
