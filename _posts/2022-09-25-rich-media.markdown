@@ -1,8 +1,8 @@
 ---
-title: Rich Media - v2.6
-date: 2022-09-28 15:41:20 -0800
+title: Rich Media - v2.7
+date: 2022-09-25 15:41:20 -0800
 categories: release
-lastmod: 2022-09-28T20:44:01.227Z
+lastmod: 2022-09-25T20:44:01.227Z
 og_image: /assets/images/rich-media-langley.png
 draft: true
 ---
@@ -18,9 +18,10 @@ To some extent, these features overlap those offered by [https://activecaptain.c
 
 But what is unique here is that each marker and trip can optionally include a series of comments with images and video.  The user interaction model is similar to Twitter, and you can comment on others comments.
 
-
 Anyone who has tried to spelunk through Amazon product reviews for valid information knows that the tragedy of the commons applies to the internet.  Mindless and irrelevant comments and reviews seem to be the norm, and bots seem to be taking over.
 To try and limit such flotsam and jetsam on DeepZoom, only subscribers can post new content or add ratings.
+
+There are two classes of markers:  **public** markers appear on everyone's chart, and **private** markers are only stored within a Trip. The next planned feature will allow users to promote their private markers into the public arena.  For example, if you have a collection of Puget Sound SCUBA sites with accompanying rich media you'll be able to have these show up on everyone's chart.  Just mark the Trip containing the markers as **public** and if the trip garners a high enough star ranking and votes (number to be determined) the markers will become automagically become public.
 
 ### The content editor
 
@@ -50,3 +51,7 @@ Scroll down on the "Trip" tab to see comments and images.
 Try it: [https://www.deepzoom.com/trip/4jvmcnf6](https://www.deepzoom.com/trip/4jvmcnf6)
 {: .notice--warning}
 
+### Bug fixes
+
+1. Sometimes when changing properties of a route another route would be incorrectly selected.  Sorry for all the aggravation this bug has caused, but it is now fixed!
+2. The "Kingman - Cuttyhunk" Trip could hang the system.  Fixed.
