@@ -1,7 +1,7 @@
 ---
 title: Rich Media - v2.7
 date: 2022-09-25 15:41:20 -0800
-categories: release
+categories: release trip
 lastmod: 2022-09-25T20:44:01.227Z
 og_image: /assets/images/rich-media-langley.png
 draft: true
@@ -28,11 +28,8 @@ There are two classes of markers:  **public** markers appear on everyone's chart
 The editor is divided into three sections: text, images, videos.  Each section is optional.  
 Both images and videos can be drag and dropped onto the editing page. Images retain their full original resolution. At this time, videos must be hosted on YouTube. 
 
-<figure style="width: 600px" class="align-center toc">
-  <a href="/assets/images/LangleyEdit.png" title="Editing a comment" alt="Editing a comment">
-  <img src="/assets/images/LangleyEdit.png" alt=""></a>
-  <figcaption>Editing a comment.</figcaption>
-</figure>
+
+![](/assets/images/LangleyEdit.png){: .align-center .toc} 
 
 
 ### Seattle to Lopez Island Loop
@@ -54,4 +51,4 @@ Try it: [https://www.deepzoom.com/trip/4jvmcnf6](https://www.deepzoom.com/trip/4
 ### Bug fixes
 
 1. Sometimes when changing properties of a route another route would be incorrectly selected.  Sorry for all the aggravation this bug has caused, but it is now fixed!
-2. The "Kingman - Cuttyhunk" Trip could hang the system.  Fixed.
+2. The "Kingman - Cuttyhunk" Trip could hang the app.  Fixed.
