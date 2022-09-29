@@ -131,5 +131,5 @@ twitter:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "AW-10953248920"
+    tracking_id: "G-FHQRFNS2HN"
     anonymize_ip: false # default
