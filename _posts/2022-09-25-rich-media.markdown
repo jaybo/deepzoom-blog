@@ -21,7 +21,7 @@ But what is unique here is that each marker and trip can optionally include a se
 Anyone who has tried to spelunk through Amazon product reviews for valid information knows that the tragedy of the commons applies to the internet.  Mindless and irrelevant comments and reviews seem to be the norm, and bots seem to be taking over.
 To try and limit such flotsam and jetsam on DeepZoom, only subscribers can post new content or add ratings.
 
-There are two classes of markers:  **public** markers appear on everyone's chart, and **private** markers are only stored within a Trip. The next planned feature will allow users to promote their private markers into the public arena.  For example, if you have a collection of Puget Sound SCUBA sites with accompanying rich media you'll be able to have these show up on everyone's chart.  Just mark the Trip containing the markers as **public** and if the trip garners a high enough star ranking and votes (number to be determined) the markers will become automagically become public.
+There are two classes of markers:  **public** markers appear on everyone's chart, and **private** markers are only stored within a Trip. The next planned feature will allow users to promote their private markers into the public arena.  For example, if you have a collection of Puget Sound SCUBA sites with accompanying rich media you'll be able to have these show up on everyone's chart.  Just mark the Trip containing the markers as **public** and if the trip garners a high enough star ranking and votes (number to be determined) the markers will become automagically become public.  To be eligible to transition to public marker status, the Trip must *only* contain markers and no routes.
 
 ### The content editor
 
