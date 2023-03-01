@@ -60,15 +60,9 @@ Or you could have more elaborate scenarios with buttons to load different marker
 </script>
 
 <btn 
-  onclick="changeSrc('https:\/\/www.deepzoom.com/marker/a61cae5ca877eb87218b82fbdaebe599')"> 
-  jump to a marker 
-</btn>
-
-<btn 
   onclick="changeSrc('https:\/\/www.deepzoom.com/marker/a61cae5ca877eb87218b82fbdaebe599')" > 
   Jump to marker ID: a61cae5ca877eb87218b82fbdaebe599 
 </btn>
-
 ```
 
 
