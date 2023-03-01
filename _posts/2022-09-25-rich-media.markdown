@@ -14,11 +14,11 @@ This release marks the introduction of both of these features.
 
 ![](/assets/images/rich-media-langley.png){: .align-center .toc} 
 
-To some extent, these features overlap those offered by [https://activecaptain.com](https://activecaptain.com) and [https://marinas.com](https://marinas.com).  So rather than focusing on the ever changing details of which marinas have ice, or total number of berths, the intent is just to provide a link to the authoritative source at the top of each marker description.
+To some extent, these features overlap those offered by [https://activecaptain.com](https://activecaptain.com) and [https://marinas.com](https://marinas.com).  Since I don't have the bandwidth/time/money to keep track of all of the details for every commercial establishment, DeepZoom will just provide a link to the authoritative source at the top of each marker description.
 
 But what is unique here is that each marker and trip can optionally include a series of comments with images and video.  The user interaction model is similar to Twitter, and you can comment on others comments.
 
-Anyone who has tried to spelunk through Amazon product reviews for valid information knows that the tragedy of the commons applies to the internet.  Mindless and irrelevant comments and reviews seem to be the norm, and bots seem to be taking over.
+Anyone who has tried to spelunk through Amazon product reviews for valid information knows that the tragedy of the commons applies to the internet.  Mindless and irrelevant comments and reviews seem to be the norm, and bots are rapidly taking over.
 To try and limit such flotsam and jetsam on DeepZoom, only subscribers can post new content or add ratings.
 
 There are two classes of markers:  **public** markers appear on everyone's chart, and **private** markers are only stored within a Trip. The next planned feature will allow users to promote their private markers into the public arena.  For example, if you have a collection of Puget Sound SCUBA sites with accompanying rich media you'll be able to have these show up on everyone's chart.  Just mark the Trip containing the markers as **public** and if the trip garners a high enough star ranking and votes (number to be determined) the markers will become automagically become public.  To be eligible to transition to public marker status, the Trip must *only* contain markers and no routes.
