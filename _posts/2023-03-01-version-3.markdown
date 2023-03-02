@@ -28,6 +28,8 @@ Now they are.
 
 .
 
+.
+
 
 #### Toggle charts, tides and currents, and pilot charts
 
@@ -39,6 +41,7 @@ You can still control opacity of each layer separately  using the sliders in the
  
  .
 
+.
 
 ## Weather
 
