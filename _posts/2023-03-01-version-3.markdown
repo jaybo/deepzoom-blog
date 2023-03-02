@@ -25,7 +25,7 @@ to show/hide charts, tides and currents, and pilot charts.
 Any or all of these can be active simultaneously.  An orange border indicates that the layer is active.
 
 You can still control opacity of each layer separately  using the sliders in the layers dialog. 
-Now, even if a script changes the opacity of a layer, the values you've manually set using the slider will be restored when you manually toggle the layer.
+Even if a script changes the opacity of a layer, the values you've manually set using the slider will be restored when you manually toggle the layer.
 
 <div style="clear: left"></div>
  
@@ -106,9 +106,9 @@ If you don't have great bandwidth, performance will be smoother with lower resol
 
 ## Goodbye 3D
 
-Rotation and tilt of the map have been features since V2. These, along with 3D terrain views made nice eye candy, but probably weren't that functional for most users.  
+Rotation and tilt of the map have been features since version 2.0. These, along with 3D terrain views made nice eye candy, but probably weren't that functional for most users.  
 3D also increases DeepZoom's memory footprint and CPU/GPU/bandwidth usage.
-And, 3D never quite worked perfectly as you may have noticed if you ever tried editing a route while in 3D mode. At random moments, the draw code would crash in a way that I couldn't work around.
+Critically, 3D was never flawless as you may have noticed if you ever tried editing a route while in 3D mode. At random moments, the draw code would crash in a way that I couldn't work around.
 While this could have been due to issues in my code, I'm pretty sure there's a problem inside of mapbox and mapbox-draw, specifically
 <a href="https://github.com/mapbox/mapbox-gl-js/issues/10927" target="_blank"> mapbox#10927</a> and 
 <a href="https://github.com/mapbox/mapbox-gl-draw/issues/1077" target="_blank"> mapbox-draw#1077</a>
@@ -123,13 +123,15 @@ I'm curious how many users will actually miss the 3D views.  Take a poll here (y
 ## Scripting
 
 Scripting has a few new features. I've long wanted to put a real programming language inside of DeepZoom, but sharing trips which contain executable javascript is a security risk.
-So as a stopgap measure, I've added a simple javascript phrase parser which allows conditional execution of any script event.  The `if` conditional is:
+So as a partial solution, I've added a simple javascript phrase parser (abstract syntax tree) which allows conditional execution of any script event.  The `if` conditional is:
 
 ```
 "if": "<condition is true>"
 ```
 
-I've begun exposing internal DeepZoom variables which can be used in the conditional phrase:  `loopCount`, `isPlaying`, `isDragging`, and `sliderPosition`.  `LoopCount` is incremented once each pass through a trip, so to toggle the wind layer on and off every other pass through a trip playback
+I've begun exposing internal DeepZoom variables which can be used in the conditional phrase:  `loopCount`, `isPlaying`, `isDragging`, and `sliderPosition`.  These variables are read-only.  You can't perform assignment operations in the conditional.
+
+`LoopCount` is incremented once each pass through a trip, so to toggle the wind layer on and off every other pass through a trip playback
 the syntax is:
 
 ```
