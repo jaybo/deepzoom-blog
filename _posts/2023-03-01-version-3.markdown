@@ -1,0 +1,114 @@
+---
+title: "DeepZoom - v3.0"
+date: "2023-03-01 12:00:00 -0800"
+categories: release 
+lastmod: "2023-03-01:34:20.077Z"
+og_image: /assets/images/WeatherHUD.png
+---
+
+## Version 3 is out!
+
+Whew! Halt! Enough already! I surrender!
+
+Version 3 is a culmination of the work over the winter.  Learning WebGL.  Retinking some of the UI.  Weather display is pretty much a complete redo.
+
+## UI updates
+
+Until this release, a lot of the important functionality in DeepZoom hasn't been, er, easily discoverable. It's there, but often buried a bit too deep.
+For example, switching between layers required dragging multiple opacity sliders back and forth. Now, all gone! Instead, just click on a button
+to show/hide charts, tides and currents, and pilot charts.
+
+#### Quick access to route creation
+
+![](/assets/images/AddMarkerBtn.png){: .align-left} 
+
+Based on my own subjective usage, creating and editing routes and markers, and then starting over need to be easily accessible. 
+
+Now they are.
+
+.
+
+
+#### Toggle charts, tides and currents, and pilot charts
+
+![](/assets/images/LatLngButtons.png){: .align-left} 
+
+Any or all of these can be simultaneously active.  The orange circle indicates the layer is active.
+
+You can still control opacity of each layer separately  using the sliders in the layers dialog. 
+ 
+ .
+
+
+## Weather
+
+Weather display got a total makeover with plenty of cudos going to
+<a href="https://www.windy.com" target="_blank"> Windy</a> and
+<a href="https://www.ventusky.com" target="_blank"> Ventusky</a> for inspiration.
+Notice that precipitation, temperature, and wind velocity and direction are all updated simultaneously and synchronous to whatever location is displayed in the exact
+center of the screen.
+
+![](/assets/images/WeatherHUD.png){: .align-cemter}
+
+Toggle a weather layer on or off with these buttons.  Notice you have to click the circular part of the readout to toggle.
+
+Precipitation, temperature, and wind overlay and obsure most everything in layers below.  But you can set a zoom level beyond which the weather layer is hidden.
+
+#### Hide the weather based on zoom
+
+These controls are on the settings page.
+
+![](/assets/images/WeatherZoomSliders.png){: .align-center}
+
+
+If you want to hide the streamers completely, just move the bottom slider to the far left.
+
+### Weather resolution
+
+DeepZoom club members can choose the resolution of weather data displayed.  The free version includes 1°x1° resolution data. 
+DeepZoom club members can choose either 0.5°x0.5° (4x data) or 0.25°x0.25° (16x data) as well as time resoution of either 1 or 3 hours.
+If you don't have great bandwidth, performance will be smoother with lower resolution settings.
+
+
+## Goodbye 3D
+
+Rotation and tilt of the map have been features since V2. These, along with 3D terrain views made nice eye candy, but probably weren't that functional for most users.  
+3D also increases DeepZoom's memory footprint and CPU/GPU/bandwidth usage.
+And, 3D never quite worked perfectly as you may have noticed if you ever tried editing a route while in 3D mode. At random moments, the draw code would crash in a way that I couldn't work around.
+While this could have been due to issues in my code, I'm pretty sure there's a problem inside of mapbox and mapbox-draw, specifically
+<a href="https://github.com/mapbox/mapbox-gl-js/issues/10927" target="_blank"> https://github.com/mapbox/mapbox-gl-js/issues/10927</a> and 
+<a href="https://github.com/mapbox/mapbox-gl-draw/issues/1077" target="_blank"> https://github.com/mapbox/mapbox-gl-draw/issues/1077</a>
+
+So, I've made the somewhat painful decision to disable 3D, tilt, and rotation until these issues are resolved. All of this code is still in the codebase, but is just dormant.
+All existing scripts continue to function, but any 3D operation is quietly ignored.  
+
+I'm curious how many users will actually miss the 3D views.  Take a poll here: 
+<a href="https://github.com/jaybo/deepzoom-blog/discussions/18" target="_blank"> https://github.com/jaybo/deepzoom-blog/discussions/18</a>.
+
+
+## Scripting
+
+Scripting has a few new features. I've long wanted to put a real programming language inside of DeepZoom, but sharing trips which contain executable javascript is a security risk.
+So as a stopgap measure, I've added a simple javascript phrase parser which allows conditional execution of script events.  The `if` conditional is; 
+
+```
+"if": <condition is true>
+```
+
+I've begun exposing internal DeepZoom variables which can be used in the conditional phrase:  `loopCount`, `isPlaying`, `isDragging`, and `sliderPosition`.  `LoopCount` is incremented once each pass through a trip, so to toggle the wind layer on and off every other pass through a trip playback
+the syntax is:
+
+```
+{ "weather":"wind-wind", "if": "loopCount % 2 == 0" }  // if loopCount is even
+{ "weather":"off", "if": "loopCount % 2 == 1" }  // if loopCount is odd
+```
+
+"%"  is a remainder operation in javascript, so the top line reads "if the remainder of loopCount / 2 is zero".
+
+![](/assets/images/IfScript.png){: .align-center}
+
+
+### Bug fixes
+
+1. Lots.
+
