@@ -32,8 +32,8 @@ The code:
 </div>
 ```
 
-You can specify a particular trip or page to be loaded via the Url passed in the `src` parameter of the iframe.
-Here are some typical examples:
+Notice that these are fully functional instances of DeepZoom,  not just a movie playing.  A few features are disabled by browser security when running in an iFrame such
+as all geolocation APIs.
 
 ### Load a trip
 This is the most flexible means of specifying the location, zoom, layers, tab displayed, and virtually all of the settings in DeepZoom.

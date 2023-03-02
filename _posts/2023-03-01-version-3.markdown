@@ -64,7 +64,7 @@ If you want to hide the streamers completely, just move the bottom slider to the
 ### Weather resolution
 
 DeepZoom club members can choose the resolution of weather data displayed.  The free version includes 1°x1° resolution data. 
-DeepZoom club members can choose either 0.5°x0.5° (4x data) or 0.25°x0.25° (16x data) as toc as time resolution of either 1 or 3 hours.
+DeepZoom club members can choose either 0.5°x0.5° (4x data) or 0.25°x0.25° (16x data) with time resolution of either 1 or 3 hours.
 If you don't have great bandwidth, performance will be smoother with lower resolution settings.
 
 <table style="margin-left: 24px;">
@@ -131,8 +131,8 @@ So as a partial solution, I've added a simple javascript phrase parser (abstract
 
 I've begun exposing internal DeepZoom variables which can be used in the conditional phrase:  `loopCount`, `isPlaying`, `isDragging`, and `sliderPosition`.  These variables are read-only.  You can't perform assignment operations in the conditional.
 
-`LoopCount` is incremented once each pass through a trip, so to toggle the wind layer on and off every other pass through a trip playback
-the syntax is:
+`loopCount` is incremented once each pass through a trip.  The current value of `loopCount` is shown at the top of the Script dialog (there's a reset button beside the shown value which sets `loopCount` back to zero).  
+Here's how to toggle the wind layer on and off every other pass through a trip playback:
 
 ```
 { "weather":"wind-wind", "if": "loopCount % 2 == 0" }  // if loopCount is even
@@ -142,6 +142,15 @@ the syntax is:
 "%"  is a remainder operation in javascript, so the top line reads "if the remainder of loopCount / 2 is zero".
 
 ![](/assets/images/IfScript.png){: .align-center .toc}
+
+A few new script events have been added.  Of note for embedding use is the ability to specify a particular timezone:
+
+```
+timezone: {"zone":"America/Los_Angeles"}
+```
+
+If you'd like to access any additional internal variables, here's where to make a request.
+<a href="https://github.com/jaybo/deepzoom-blog/discussions/19" target="_blank"> https://github.com/jaybo/deepzoom-blog/discussions/19</a>.
 
 
 ### Bug fixes
