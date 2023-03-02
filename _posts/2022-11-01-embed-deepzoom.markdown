@@ -14,8 +14,8 @@ Here are some typical examples
 <div>
 <iframe id="theIframe"
     title="DeepZoom embedded"
-    width="960"
-    height="700"
+    width="100%"
+    height="600"
     src="https://www.deepzoom.com/trip/yzahbfym">
 </iframe>
 </div>
@@ -25,8 +25,8 @@ The code:
 <div>
 <iframe id="theIframe"
     title="Inline Frame Example"
-    width="1050"
-    height="700"
+    width="100%"
+    height="600"
     src="https://www.deepzoom.com/trip/yzahbfym">
 </iframe>
 </div>
@@ -43,7 +43,7 @@ You can optionally customize the user experience by adding a script to the trip.
 {: .notice--warning}
 
 ### Load a marker
-If you want to always zoom to a particular public or private marker use `marker\{markerID}` as in:
+If you want to always zoom to a particular public or private marker use `marker/{markerID}` as in:
 
 [https://www.deepzoom.com/marker/a61cae5ca877eb87218b82fbdaebe599](https://www.deepzoom.com/marker/a61cae5ca877eb87218b82fbdaebe599)
 {: .notice--warning}

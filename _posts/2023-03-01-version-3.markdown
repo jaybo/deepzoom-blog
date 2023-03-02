@@ -8,69 +8,100 @@ og_image: /assets/images/WeatherHUD.png
 
 ## Version 3 is out!
 
-Whew! Halt! Enough already! I surrender!
+Whew! Stop! Enough already! I surrender!
 
-Version 3 is a culmination of the work over the winter.  Learning WebGL.  Retinking some of the UI.  Weather display is pretty much a complete redo.
+Version 3 is a culmination of the work over the winter.  Learning WebGL.  Rethinking some of the UI.  Weather display is pretty much a complete redo.
 
 ## UI updates
 
 Until this release, a lot of the important functionality in DeepZoom hasn't been, er, easily discoverable. It's there, but often buried a bit too deep.
-For example, switching between layers required dragging multiple opacity sliders back and forth. Now, all gone! Instead, just click on a button
+For example, switching between layers required dragging multiple opacity sliders back and forth. Now, just click on a button
 to show/hide charts, tides and currents, and pilot charts.
-
-#### Quick access to route creation
-
-![](/assets/images/AddMarkerBtn.png){: .align-left} 
-
-Based on my own subjective usage, creating and editing routes and markers, and then starting over need to be easily accessible. 
-
-Now they are.
-
-.
-
-.
-
 
 #### Toggle charts, tides and currents, and pilot charts
 
-![](/assets/images/LatLngButtons.png){: .align-left} 
+![](/assets/images/LatLngButtons.png){: .align-left .toc} 
 
-Any or all of these can be simultaneously active.  The orange circle indicates the layer is active.
+Any or all of these can be active simultaneously.  An orange border indicates that the layer is active.
 
 You can still control opacity of each layer separately  using the sliders in the layers dialog. 
- 
- .
+Now, even if a script changes the opacity of a layer, the values you've manually set using the slider will be restored when you manually toggle the layer.
 
-.
+<div style="clear: left"></div>
+ 
+#### Quick access to route creation
+
+![](/assets/images/AddMarkerBtn.png){: .align-left .toc} 
+
+Creating and editing routes and markers is now more accessible. 
+
+<div style="clear: left"></div>
+
 
 ## Weather
 
-Weather display got a total makeover with plenty of cudos going to
+Weather display got a total makeover with plenty of kudos going to
 <a href="https://www.windy.com" target="_blank"> Windy</a> and
 <a href="https://www.ventusky.com" target="_blank"> Ventusky</a> for inspiration.
 Notice that precipitation, temperature, and wind velocity and direction are all updated simultaneously and synchronous to whatever location is displayed in the exact
 center of the screen.
 
-![](/assets/images/WeatherHUD.png){: .align-cemter}
+![](/assets/images/WeatherHUD.png){: .align-center .toc}
 
-Toggle a weather layer on or off with these buttons.  Notice you have to click the circular part of the readout to toggle.
+Toggle a weather layer on or off with these buttons.  Notice you have to click the circular part of the readout to toggle the layer.
 
-Precipitation, temperature, and wind overlay and obsure most everything in layers below.  But you can set a zoom level beyond which the weather layer is hidden.
+Precipitation, temperature, and wind overlay and obscure most everything in layers below.  But you can set a zoom level beyond which the weather layer is hidden.
 
-#### Hide the weather based on zoom
+#### Hide weather layers based on zoom
 
-These controls are on the settings page.
+As you zoom in and out there is a threshold zoom where weather layers transition between visible and transparent. And there is a separate setting which controls whether the 
+wind streamer lines are visible.  These controls are on the settings page.
 
-![](/assets/images/WeatherZoomSliders.png){: .align-center}
-
+![](/assets/images/WeatherZoomSliders.png){: .align-center .toc}
 
 If you want to hide the streamers completely, just move the bottom slider to the far left.
 
 ### Weather resolution
 
 DeepZoom club members can choose the resolution of weather data displayed.  The free version includes 1°x1° resolution data. 
-DeepZoom club members can choose either 0.5°x0.5° (4x data) or 0.25°x0.25° (16x data) as well as time resoution of either 1 or 3 hours.
+DeepZoom club members can choose either 0.5°x0.5° (4x data) or 0.25°x0.25° (16x data) as toc as time resolution of either 1 or 3 hours.
 If you don't have great bandwidth, performance will be smoother with lower resolution settings.
+
+<table style="margin-left: 24px;">
+    <thead>
+        <tr>
+            <th class="text-center">
+                <br />
+                DeepZoom<br />
+                Club
+            </th>
+            <th class="text-center">
+                <br />
+                <br />
+                Days<br />
+            </th>
+            <th class="text-center">
+                Time<br />granularity<br />
+                in hours
+            </th>
+            <th class="text-center">Spatial<br />granularity<br />in degrees</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="text-center">No</td>
+            <td class="text-center">-1 / +3</td>
+            <td class="text-center">3</td>
+            <td class="text-center">1°</td>
+        </tr>
+        <tr>
+            <td class="text-center">Yes</td>
+            <td class="text-center">-10 / +10</td>
+            <td class="text-center">1 or 3</td>
+            <td class="text-center">0.25°, 0.5°, 1°</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## Goodbye 3D
@@ -79,23 +110,23 @@ Rotation and tilt of the map have been features since V2. These, along with 3D t
 3D also increases DeepZoom's memory footprint and CPU/GPU/bandwidth usage.
 And, 3D never quite worked perfectly as you may have noticed if you ever tried editing a route while in 3D mode. At random moments, the draw code would crash in a way that I couldn't work around.
 While this could have been due to issues in my code, I'm pretty sure there's a problem inside of mapbox and mapbox-draw, specifically
-<a href="https://github.com/mapbox/mapbox-gl-js/issues/10927" target="_blank"> https://github.com/mapbox/mapbox-gl-js/issues/10927</a> and 
-<a href="https://github.com/mapbox/mapbox-gl-draw/issues/1077" target="_blank"> https://github.com/mapbox/mapbox-gl-draw/issues/1077</a>
+<a href="https://github.com/mapbox/mapbox-gl-js/issues/10927" target="_blank"> mapbox#10927</a> and 
+<a href="https://github.com/mapbox/mapbox-gl-draw/issues/1077" target="_blank"> mapbox-draw#1077</a>
 
 So, I've made the somewhat painful decision to disable 3D, tilt, and rotation until these issues are resolved. All of this code is still in the codebase, but is just dormant.
 All existing scripts continue to function, but any 3D operation is quietly ignored.  
 
-I'm curious how many users will actually miss the 3D views.  Take a poll here: 
+I'm curious how many users will actually miss the 3D views.  Take a poll here (you need to be logged into GitHub to vote): 
 <a href="https://github.com/jaybo/deepzoom-blog/discussions/18" target="_blank"> https://github.com/jaybo/deepzoom-blog/discussions/18</a>.
 
 
 ## Scripting
 
 Scripting has a few new features. I've long wanted to put a real programming language inside of DeepZoom, but sharing trips which contain executable javascript is a security risk.
-So as a stopgap measure, I've added a simple javascript phrase parser which allows conditional execution of script events.  The `if` conditional is; 
+So as a stopgap measure, I've added a simple javascript phrase parser which allows conditional execution of any script event.  The `if` conditional is:
 
 ```
-"if": <condition is true>
+"if": "<condition is true>"
 ```
 
 I've begun exposing internal DeepZoom variables which can be used in the conditional phrase:  `loopCount`, `isPlaying`, `isDragging`, and `sliderPosition`.  `LoopCount` is incremented once each pass through a trip, so to toggle the wind layer on and off every other pass through a trip playback
@@ -108,7 +139,7 @@ the syntax is:
 
 "%"  is a remainder operation in javascript, so the top line reads "if the remainder of loopCount / 2 is zero".
 
-![](/assets/images/IfScript.png){: .align-center}
+![](/assets/images/IfScript.png){: .align-center .toc}
 
 
 ### Bug fixes
