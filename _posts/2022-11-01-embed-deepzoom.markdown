@@ -70,7 +70,7 @@ Or you could have more elaborate scenarios with buttons to load different marker
 Hey, how do you get from Hoboken to Carnegie Hall?
 
 <div>
-<iframe id="theIframe"
+<iframe id="theIframe2"
     title="DeepZoom embedded"
     width="100%"
     height="600"

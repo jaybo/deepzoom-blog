@@ -67,7 +67,10 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Logging DeepZoom releases, trips, and features *as they happen*."
   links:
-    - label: "Bugs and Issues"
+    - label: "Release history"
+      icon: "fas fa-fw fa-lemon"
+      url: "/release/release-history/"
+    - label: "Bugs and issues"
       icon: "fas fa-fw fa-bug"
       url: "https://github.com/jaybo/deepzoom-blog/issues"
     - label: "Discussion forum"
