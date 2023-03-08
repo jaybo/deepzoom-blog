@@ -7,12 +7,23 @@ og_image: /assets/images/WeatherHUD.png
 draft: false
 ---
 
+**v 3.0.51**  <span style="float: right"  >2023.03.08</span>
+{: .notice--warning}
+
+#### New features
+- Added 3 day weather sample trip
+
+#### Bugs fixed
+- Clicking "Now" in "Animation Settings" no longer changes duration to one day unless "now" is outside animation duration
+- `loopCount` value is incremented after trip is completed, but *before* any "post" scripts are executed.
+- Graticule no longer overwrites the top longitude lines at low zoom values
+
 
 **v 3.0.48**  <span style="float: right"  >2023.03.06</span>
 {: .notice--warning}
 
 #### New features
-- added Graticule (lat, lon lines)
+- added Graticule (lat, lon lines).  Enable them on the Settings page.
 
 #### Bugs fixed
 - Improved wind directional accuracy
