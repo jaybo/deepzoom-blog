@@ -7,8 +7,15 @@ og_image: /assets/images/WeatherHUD.png
 draft: false
 ---
 
-**v 3.0.51**  <span style="float: right"  >2023.03.08</span>
-{: .notice--warning}
+<div style="background-color: lightblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.0.51
+</span>  
+<span style="float: right; margin: 6px;"  >
+2023.03.08
+</span>
+<hr style="clear: both"/> 
+</div>
 
 #### New features
 - Added 3 day weather sample trip
@@ -19,8 +26,15 @@ draft: false
 - Graticule no longer overwrites the top longitude lines at low zoom values
 
 
-**v 3.0.48**  <span style="float: right"  >2023.03.06</span>
-{: .notice--warning}
+<div style="background-color: lightblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.0.48
+</span>  
+<span style="float: right; margin: 6px;"  >
+2023.03.06
+</span>
+<hr style="clear: both"/> 
+</div>
 
 #### New features
 - added Graticule (lat, lon lines).  Enable them on the Settings page.
@@ -30,9 +44,15 @@ draft: false
 
 
 
-
-**v 3.0.34**  <span style="float: right"  >2023.03.01</span>
-{: .notice--warning}
+<div style="background-color: lightblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.0.34
+</span>  
+<span style="float: right; margin: 6px;"  >
+2023.03.01
+</span>
+<hr style="clear: both"/> 
+</div>
 
 #### New features
 - Total redo of weather display
@@ -49,13 +69,27 @@ draft: false
 - Sometimes route duration wasn't updated properly after changing route speed.
 
 
-**v 2.0**  <span style="float: right"  >2021.06.12</span>
-{: .notice--warning}
+<div style="background-color: lightblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 2.0
+</span>  
+<span style="float: right; margin: 6px;"  >
+2021.06.12
+</span>
+<hr style="clear: both"/> 
+</div>
 
 - Introduced 3D display, rotation, and tilt
 - Introduced trip scripting
 
+<div style="background-color: lightblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 1.0
+</span>  
+<span style="float: right; margin: 6px;"  >
+2007.??.??
+</span>
+<hr style="clear: both"/> 
+</div>
 
-**v 1.0**  <span style="float: right"  >2007.??.??</span>
-{: .notice--warning}
 Just tides, currents, NOAA nautical charts
