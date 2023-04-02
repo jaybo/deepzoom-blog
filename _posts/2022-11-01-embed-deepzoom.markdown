@@ -15,8 +15,7 @@ Here are some typical examples
 <iframe id="theIframe"
     title="DeepZoom embedded"
     width="100%"
-    style="min-width: 375px;"
-    height="600"
+    style="min-width: 375px; height: 80vh;"
     src="https://www.deepzoom.com/trip/yzahbfym">
 </iframe>
 </div>
@@ -27,8 +26,7 @@ The code:
 <iframe id="theIframe"
     title="Inline Frame Example"
     width="100%"
-    style="min-width: 375px;"
-    height="600"
+    style="min-width: 375px; height: 80vh;"
     src="https://www.deepzoom.com/trip/yzahbfym">
 </iframe>
 </div>
@@ -75,8 +73,7 @@ Hey, how do you get from Hoboken to Carnegie Hall?
 <iframe id="theIframe2"
     title="DeepZoom embedded"
     width="100%"
-    style="min-width: 375px;"
-    height="600"
+    style="min-width: 375px; height: 80vh;"
     src="https://www.deepzoom.com/trip/dwmfjt2f">
 </iframe>
 </div>
