@@ -9,6 +9,47 @@ draft: false
 
 <div style="background-color: lightblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.0.89
+</span>  
+<span style="float: right; margin: 6px;"  >
+2023.04.28
+</span>
+<hr style="clear: both"/> 
+</div>
+
+
+#### Bugs fixed
+- Never change map center when selecting a route.
+- Propogate route name changes onto time slider.
+- Update browserlist to handle 89% of all browsers.
+- Make changing timebase settings rational.
+
+
+
+
+
+<div style="background-color: lightblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.0.75
+</span>  
+<span style="float: right; margin: 6px;"  >
+2023.04.01
+</span>
+<hr style="clear: both"/> 
+</div>
+
+#### New features
+- When used in iFrame, each instance of DeepZoom uses a unique localstorage.
+
+#### Bugs fixed
+- Position marker correctly at start or end of route when using Timewarp.
+- fix getLayer() error at startup on some devices.
+
+
+
+
+<div style="background-color: lightblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.51
 </span>  
 <span style="float: right; margin: 6px;"  >
