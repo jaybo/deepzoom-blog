@@ -9,6 +9,25 @@ draft: false
 
 <div style="background-color: lightblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.0.99
+</span>  
+<span style="float: right; margin: 6px;"  >
+2023.05.08
+</span>
+<hr style="clear: both"/> 
+</div>
+
+
+#### Bugs fixed
+- the **Now!** button would sometimes switch the time zone display to UTC.
+- +/- day or week increment buttons under the tide graph were not working correctly.
+- Verification email confirmation was sometimes silently ignored.
+
+
+
+
+<div style="background-color: lightblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.89
 </span>  
 <span style="float: right; margin: 6px;"  >
