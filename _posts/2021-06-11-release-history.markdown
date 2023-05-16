@@ -7,6 +7,29 @@ og_image: /assets/images/WeatherHUD.png
 draft: false
 ---
 
+
+
+<div style="background-color: lightblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.1.4
+</span>  
+<span style="float: right; margin: 6px;"  >
+2023.05.16
+</span>
+<hr style="clear: both"/> 
+</div>
+
+
+#### Bugs fixed
+- Sometimes tides and currents would not get updated without initially moving the chart.
+- A big deal! **Instantaneously update time when changing route departure date/time or speed.**  This feature was present on many early versions of DeepZoom but was problematic because routes were sometimes autoselected in a confusing fashion. I think this is finally fixed, enjoy!
+
+
+
+
+
+
+
 <div style="background-color: lightblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.99
