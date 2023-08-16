@@ -57,7 +57,7 @@ remaining cockpit teak was wet sanded with Dalys Tung oil and 120 grit sand pape
 
 **Application**
 
-The pine tar and raw linseed oil were mixed 50/50 and warmed in the crock pot with a water bath to 140-160° F.  Beware, the fumes are flammmable if exposed to an open flame. A light coating was applied to the wood with a foam brush, left to soak in for 5-10 minutes, and finally the excess wiped off.  No taping. Almost no drips or spills and the few small messes
+The pine tar and raw linseed oil were mixed 50/50 and warmed in the crock pot with a water bath to 140-160° F.  Beware, the fumes are flammable if exposed to an open flame. A light coating was applied to the wood with a foam brush, left to soak in for 5-10 minutes, and finally the excess wiped off.  No taping. Almost no drips or spills and the few small messes
 cleaned up easily with mineral spirits.  In total, I used only 1/3 liter of each ingredient.
 
 The smell was like being in the middle of a campfire, wondering if smore fixings were available.  Overwhelmingly intense; like floating in a turpene bath.  A different kind of VOCs...
@@ -71,13 +71,16 @@ Either immerse rags in water or keep them spread out and well ventilated until d
 
 **Unknowns**
 
-  * Will this mixture darken excessively over time?  If too dark, the wood becomes uncomfortable in the sun underfoot and undertuchus.
-  * How much maintenance will be required?
-  * Will the presence of the linseed oil deep in the wood actually *increase* the rate of decay since it provides food for fungi?  Or will the pine tar antiseptic properties limit this effect?
+  * Will this mixture darken excessively over time?  If too dark, the wood becomes uncomfortable in the sun underfoot.  
+    *(Answer after 1 year: no)*
+  * How much maintenance will be required? 
+    *(Answer after 1 year: probably reapply every few years)*
+  * Will the presence of the linseed oil deep in the wood actually *increase* the rate of decay since it provides food for fungi?  Or will the pine tar antiseptic properties limit this effect? 
+    *(Answer after 1 year: no visible growth at all)*
 
 **Results**
 
-  * 2 weeks. Lovely.  The wood looks rich and well oiled.  Some areas which were not well sanded have raised grain.  The smell is fading, although it will take up to 6 weeks for the raw linseed oil to fully cure.  Surfaces feel dry to the touch and don't stain clothing.
+  After 2 weeks: Lovely.  The wood looks rich and well oiled.  Some areas which were not well sanded have raised grain.  The smell is fading, although it will take up to 6 weeks for the raw linseed oil to fully cure.  Surfaces feel dry to the touch and don't stain clothing.
   
   ![](/assets/images/brightwork_pully.jpg){: .align-center style="border: 1px solid #aaa"}
   Caprail is raw wood with pine tar / linseed oil.
@@ -85,5 +88,19 @@ Either immerse rags in water or keep them spread out and well ventilated until d
   ![](/assets/images/brightwork_winch.jpg){: .align-center style="border: 1px solid #aaa"}
   Wood near winch has a single coat of Tung oil under the pine tar / linseed oil.  Looks great!
 
-  * To be continued...
+ **One Year Update**
+
+The surface oils largely disappeared after one year through a soggy Seattle winter, leaving pretty much just plain wood.  But no growth, no moss, and I believe the surface layer is harder and the rate of wood loss is diminished.
+In retrospect, the underlayment of Daly's Tung oil was probably a mistake, since it likely blocked deep penetration of the pine tar and linseed oil mixture.
+
+  ![](/assets/images/brightwork1year.jpg){: .align-center style="border: 1px solid #aaa"}
+
+So, I decided to apply another coat after one year.  No sanding, no taping, no prep at all.  Less than one day of solo effort.
+
+A couple of application hints:
+  
+  * Make the crock pot portable so it slides around the deck with you as you work. The first time, I kept the crock pot in the cockpit and spent most of the effort running back and forth, rewarming the mixture as it cooled.
+  * Line all working surfaces which might come in contact with rags, bottles of ingredients, measuring cups, and stir sticks with aluminum foil.  Otherwise any drips or spills will migrate through cardboard almost instantly.
+
+  
 
