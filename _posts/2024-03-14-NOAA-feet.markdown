@@ -1,0 +1,79 @@
+---
+title: "DeepZoom - v3.14"
+date: "2024-03-01 12:00:00 -0800"
+categories: release 
+lastmod: "2024-03-01:34:20.077Z"
+og_image: /assets/images/AddOrEdit.png
+---
+
+## The &pi; release
+
+This is a major update.  New charts, new tides and currents, and plenty of UI improvements.
+
+## Charts
+
+The lovely, traditional, hand-drawn NOAA charts featured artistically placed curving labels, a nice variety of fonts, and lots of annotations. In our mad rush to digitize the world, these charts are being phased out, and are being replaced by machine drawn vector charts which lack all of these attributes.  With this release, we've accepted the inevitable and also adopted vector-based charts in DeepZoom.  
+
+But, a major benefit of the vector based charts is that a smooth land / water cutout can be established, allowing seamless transitions between NOAA (sea) and Mapbox (land) imagery. And instead of the confusing mix of depths in feet, fathoms, and sometimes meters, all NOAA charts now show depths in feet. Non USA charts still show depths in meters.
+
+## Tides
+
+All NOAA tide and current stations have been updated to match the December 2023  [(xtide)](https://flaterco.com/xtide/files.html)  release.
+
+## UI
+
+Fit and finish of the UI has significantly improved in this release.  
+
+Problems with editing routes on touchscreens are (hopefully) gone.  Clicking on any object type (tide or current station, marker, private marker, route, track, or wikipedia) selects the object. 
+
+#### Add and edit routes and markers
+
+At the top of the map are three new buttons.
+
+![](/assets/images/RoutesMarkers.png){: .align-left .toc} 
+
+
+<div style="clear: left"></div>
+
+Trip.New (trash, erase everything) is in the middle. 
+
+Add or edit routes and markers buttons are on the left and right, and they turn on  **edit** mode.
+
+![](/assets/images/AddOrEdit.png){: .align-left .toc} 
+
+Use the plus to add, or you can just edit existing markers or routes.
+
+Use the arrows to quickly jump between already created routes and markers.  
+
+Edit the name, change color or icon, and jump to the details dialog to change route speed or departure date and time.
+
+Close the routes/markers dialog to exit **edit** mode.
+<div style="clear: left"></div>
+
+Tip! To quickly toggle between routes and markers click the "routes" or "markers" label in the upper left corner of the dialog.
+{: .notice}
+
+#### Contribute public markers
+
+A long term goal for DeepZoom is to become a public resource for detailed trip planning: a non-commercial, user-sourced map with ratings, comments, images, and videos. 
+
+Use the new "Add Public Markers" dialog to make contributions to the public map.
+
+
+![](/assets/images/AddPublicMarkers.png){: .align-left .toc} 
+
+Contribute your private markers (previously saved in a trip) to the public map .  Once added to the public map, you can still make changes to the marker, and of course, anyone can add comments.
+
+Private markers appear larger on the map than public markers.  So, after adding markers to the public map, if you reopen the trip containing the source markers they will exactly overlay the public markers, and appear larger. 
+
+If you wish to rename or reposition a public marker you have contributed, use the settings button on the info page. 
+
+Only a single definitive source for content (comments, images, videos) exists and is shown on both the private and public versions of a marker.  If you reposition a private marker in your trip, the change will **not** automatically appear on the public map.
+<div style="clear: left"></div>
+
+
+#### Routes
+Routes can now be disabled.  Disabled routes no longer have vertex points displayed, so this is a way to make boundaries, starting lines, and the like.  Here's an example:  West Coast Crabber/Towboat Lanes
+
+Try it out: [https://deepzoom.com/trip/vbbzth7e](https://deepzoom.com/trip/vbbzth7e)
+{: .notice--warning}

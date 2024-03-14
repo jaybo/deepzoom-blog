@@ -8,6 +8,32 @@ draft: false
 ---
 
 
+<div style="background-color: lightblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.14.0
+</span>  
+<span style="float: right; margin: 6px;"  >
+2024.03.14
+</span>
+<hr style="clear: both"/> 
+</div>
+
+#### New features
+- Updated NOAA charts.  All NOAA chart depths are now in feet.
+- Updated NOAA tides and currents data to January 2024 release.
+- New route and marker creation and editing dialog.
+- New dialog to publish a private marker collection onto the public map.
+- Tracks are now timeline aware
+- Routes can be disabled.  This is useful for boundary marking.
+- Marker star ratings are now displayed on the map.
+- Many improvements in editing routes and markers, both touch and mouse.
+- Many UI improvements throughout.
+
+
+#### Bugs fixed
+- Many
+
+
 
 <div style="background-color: lightblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
@@ -23,6 +49,9 @@ v 3.1.4
 #### Bugs fixed
 - Sometimes tides and currents would not get updated without initially moving the chart.
 - A big deal! **Instantaneously update time when changing route departure date/time or speed.**  This feature was present on many early versions of DeepZoom but was problematic because routes were sometimes autoselected in a confusing fashion. I think this is finally fixed, enjoy!
+
+
+
 
 
 
