@@ -17,4 +17,4 @@
 
 
 Ubuntu -20.04 (WSL)
-bundle exec jekyll serve --force_polling
+jayb@nomad-5:/mnt/d/devGit/deepzoom-blog$     bundle exec jekyll serve --force_polling

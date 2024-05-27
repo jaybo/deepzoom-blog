@@ -8,7 +8,45 @@ draft: false
 ---
 
 
-<div style="background-color: lightblue; " >
+
+<div style="background-color: aliceblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.14.88
+</span>  
+<span style="float: right; margin: 6px;"  >
+2024.05.27
+</span>
+<hr style="clear: both"/> 
+</div>
+
+#### New features
+- Update route and marker properties (name, departure date and time, speed, color) within the edit dialog.
+- Scripting: [documentation](https://www.deepzoom.com/doc/index.html) added.
+- Scripting: `id` for route or marker is now a regular expression, allowing wildcard matches.  
+    See: [https://www.deepzoom.com/doc/variables/id.html](https://www.deepzoom.com/doc/variables/id.html)
+- Scripting: added [routeProperties](https://www.deepzoom.com/doc/functions/routeProperties.html) event.
+- Documents: Image links can now be added to a document.  This is useful for webcams: [Seattle ferry dock](https://deepzoom.com/marker/8866753532864865/0)
+- Documents: Added a button to remove formatting.
+- Documents: Ensure all images are loaded before allowing save.
+- Allow changing the departure time for **all** routes simultaneously in the departure time dialog.
+- Always show the timebase duration above the time readout.
+- Added [UTC](https://deepzoom.com/settings) to the timezone list.
+
+
+#### Bugs fixed
+- Changing a route departure time by clicking the clock icon wasn't working.
+- Searching for lat/lng coordinates handles more formats.
+- Null exception in TripFind if no firstName.
+- Allow marker selection except when creating or editing routes.
+- Refreshing the PWA version when a new version is released seems happier. ☺
+
+
+
+
+
+
+
+<div style="background-color: aliceblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.14.0
 </span>  
@@ -35,7 +73,7 @@ v 3.14.0
 
 
 
-<div style="background-color: lightblue; " >
+<div style="background-color: aliceblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.1.4
 </span>  
@@ -59,7 +97,7 @@ v 3.1.4
 
 
 
-<div style="background-color: lightblue; " >
+<div style="background-color: aliceblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.99
 </span>  
@@ -78,7 +116,7 @@ v 3.0.99
 
 
 
-<div style="background-color: lightblue; " >
+<div style="background-color: aliceblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.89
 </span>  
@@ -99,7 +137,7 @@ v 3.0.89
 
 
 
-<div style="background-color: lightblue; " >
+<div style="background-color: aliceblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.75
 </span>  
@@ -119,7 +157,7 @@ v 3.0.75
 
 
 
-<div style="background-color: lightblue; " >
+<div style="background-color: aliceblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.51
 </span>  
@@ -138,7 +176,7 @@ v 3.0.51
 - Graticule no longer overwrites the top longitude lines at low zoom values
 
 
-<div style="background-color: lightblue; " >
+<div style="background-color: aliceblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.48
 </span>  
@@ -156,7 +194,7 @@ v 3.0.48
 
 
 
-<div style="background-color: lightblue; " >
+<div style="background-color: aliceblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.34
 </span>  
@@ -181,7 +219,7 @@ v 3.0.34
 - Sometimes route duration wasn't updated properly after changing route speed.
 
 
-<div style="background-color: lightblue; " >
+<div style="background-color: aliceblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 2.0
 </span>  
@@ -194,7 +232,7 @@ v 2.0
 - Introduced 3D display, rotation, and tilt
 - Introduced trip scripting
 
-<div style="background-color: lightblue; " >
+<div style="background-color: aliceblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 1.0
 </span>  
