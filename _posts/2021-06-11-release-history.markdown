@@ -38,6 +38,7 @@ v 3.14.88
 - Searching for lat/lng coordinates handles more formats.
 - Null exception in TripFind if no firstName.
 - Allow marker selection except when creating or editing routes.
+- Copy postion or marker link to clipboard failed in Prodction.
 - Refreshing the PWA version when a new version is released seems happier. ☺
 
 
