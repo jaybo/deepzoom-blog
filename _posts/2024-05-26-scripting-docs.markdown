@@ -43,8 +43,9 @@ Close the routes/markers dialog to exit **edit** mode.
 Tip! To quickly toggle between routes and markers click the "routes" or "markers" label in the upper left corner of the dialog.
 {: .notice}
 
-#### 2024.06.11 (unrelated to this release)
+#### Update all NOAA charts
 
-Updated all NOAA charts to the 2024.05.28 release
+Updated all NOAA charts to the 2024.05.28 NOAA release.
+Charts were publilshed to DeepZoom on 2024.06.11.
 
 
