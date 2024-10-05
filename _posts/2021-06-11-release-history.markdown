@@ -8,6 +8,34 @@ draft: false
 ---
 
 
+<div style="background-color: aliceblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.14.93
+</span>  
+<span style="float: right; margin: 6px;"  >
+2024.10.03
+</span>
+<hr style="clear: both"/> 
+</div>
+
+
+
+#### New features
+- Show NBDC buoys with real time weather data.
+- Search: find tides and current stations by name.
+
+#### Bugs fixed
+- Touchscreen premature route creation termination fixed.
+The gory details are [here](https://github.com/mapbox/mapbox-gl-draw/issues/1212). 
+- Settings: The Celsius selection now actually does something.
+- Login: login status is now more sticky during refreshes.
+
+
+
+
+
+
+
 
 <div style="background-color: aliceblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 

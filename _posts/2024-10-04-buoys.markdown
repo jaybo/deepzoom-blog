@@ -1,0 +1,36 @@
+---
+title: "DeepZoom - v3.14.93"
+date: "2024-10-04 12:00:00 -0800"
+categories: release 
+lastmod: "2024-10-04:34:20.077Z"
+og_image: /assets/images/buoy.png
+---
+
+### NDBC Buoys
+
+[NDBC Buoys](https://https://www.ndbc.noaa.gov/) provide real time measurements of wind speed, water and air temperature, barometric pressure, and wave height. 
+
+<img src="/assets/images/buoy.png"  width="50%" style="border: 2px solid #777;"/>
+
+DeepZoom now displays these on a separate layer which can be enabled or disabled on the Layers dialog. Data is automatically refreshed every 5 minutes.
+
+
+#### Other new features
+
+- You can now use the search dialog to find tide and current station.
+
+
+#### Bug Fixes
+
+- Creating routes on touch devices has long been a bit flakey, with accidental double taps ending the route creation prematurely.
+I've been trying to work around this bug in the Mapbox drawing component for years now and the problem seems to be finally fixed!
+The gory details are [here](https://github.com/mapbox/mapbox-gl-draw/issues/1212). 
+
+- The Celsius selection on the Settings tab now actually does something.
+
+- DeepZoom would sometimes forget that you were logged in after a browser refresh.
+
+- If startup fails, prompt user to initiate refresh.
+
+- Trips saved with the Public option sometimes would not appear when searching using "Find Trips in this Area".
+
