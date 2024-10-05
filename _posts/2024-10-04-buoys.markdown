@@ -17,7 +17,7 @@ DeepZoom now displays these on a separate layer which can be enabled or disabled
 
 #### Other new features
 
-- You can now use the search dialog to find tide and current station.
+- You can now use the search dialog to find tide and current stations.
 
 
 #### Bug Fixes
