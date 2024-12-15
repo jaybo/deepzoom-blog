@@ -1,0 +1,52 @@
+---
+title: "DeepZoom - v3.15.6"
+date: "2024-12-14 12:00:00 -0800"
+categories: release 
+lastmod: "2024-12-14:34:20.077Z"
+og_image: /assets/images/newtide.png
+---
+
+### Tide Stations
+
+Tide stations now have a new symbol:
+<img src="/assets/images/newtide.png"  width="10%" />
+
+
+### Search
+
+You can now get search results (links) for points of interest (POI) and major geographical locations like parks, towns, mountains, and airports within DeepZoom.  Just click on the POI.
+
+<img src="/assets/images/search.png"  width="100%" style="border: 1px solid #777;"/>
+
+Search reults are advertising free and are provided by [Brave Search](https://search.brave.com/).  `.gov` and `.org` sites are prioritized. Unfortunately, Brave only filters search results to the country level (instead of state or some finer granularity), so there can be spurious results if the search text isn't fairly unique. 
+
+
+#### Other new features
+
+- You can now change the trip departure date without time jumping back to the beginning of the first route.  
+
+- When performing a location search, a marker is now automatically added.
+
+#### Bug Fixes
+
+- You can now  export and then import a DeepZoom trip in `.gpx` format with minimal loss of information. 
+
+- Improved tide and current station click selection accuracy.
+
+- When editing documents, don't follow links if they are clicked.
+
+- Reduced jitter of position marker when animating.
+
+- Reduced number of entries in the time zone list.  Color coded entries for easy selection. Results of changing zones are updated in UI immediately.
+
+- Performance improvements.
+
+#### Scripting
+
+- Script dialog wasn't always setting the relative time properly.
+
+- Added a new event `showDialog` to scripting. Scripts can now programmatically open: `trip-find, login, register, account, search, forgot-password, help, splash, about, demos, payday, add-public-markers, timebase, rate`.
+
+- The `selectMarker` event now works with NDCB buoys and Wikipedia locations.
+
+

@@ -8,7 +8,7 @@ og_image: /assets/images/buoy.png
 
 ### NDBC Buoys
 
-[NDBC Buoys](https://https://www.ndbc.noaa.gov/) provide real time measurements of wind speed, water and air temperature, barometric pressure, and wave height. 
+[NDBC Buoys](https://www.ndbc.noaa.gov/) provide real time measurements of wind speed, water and air temperature, barometric pressure, and wave height. 
 
 <img src="/assets/images/buoy.png"  width="50%" style="border: 2px solid #777;"/>
 
