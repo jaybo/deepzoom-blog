@@ -8,6 +8,7 @@ title: "About"
 - Animated tides and currents
 - Animated routes
 - Animated tracks
+- Animated global weather, wind, rain, temperature using GFS predictions.
 - Nautical charts from public domain sources.
 - Base mapping layer either satellite or outdoors
 - Pilot charts with animated windrose

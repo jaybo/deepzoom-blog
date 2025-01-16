@@ -8,7 +8,30 @@ draft: false
 ---
 
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.15.7
+</span>  
+<span style="float: right; margin: 6px;"  >
+2025.01.01
+</span>
+<hr style="clear: both"/> 
+</div>
+
+
+
+#### New features
+- Clipboard links now include most application state.
+- Change portrayal of tide stations to circular shape.
+
+#### Bugs fixed
+- Handle lazy loading when embedded in iFrame.
+- Improve time zone list usability.
+
+
+
+
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.14.93
 </span>  
@@ -37,7 +60,7 @@ The gory details are [here](https://github.com/mapbox/mapbox-gl-draw/issues/1212
 
 
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.14.88
 </span>  
@@ -75,7 +98,7 @@ v 3.14.88
 
 
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.14.0
 </span>  
@@ -102,7 +125,7 @@ v 3.14.0
 
 
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.1.4
 </span>  
@@ -126,7 +149,7 @@ v 3.1.4
 
 
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.99
 </span>  
@@ -145,7 +168,7 @@ v 3.0.99
 
 
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.89
 </span>  
@@ -166,7 +189,7 @@ v 3.0.89
 
 
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.75
 </span>  
@@ -186,7 +209,7 @@ v 3.0.75
 
 
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.51
 </span>  
@@ -205,7 +228,7 @@ v 3.0.51
 - Graticule no longer overwrites the top longitude lines at low zoom values
 
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.48
 </span>  
@@ -223,7 +246,7 @@ v 3.0.48
 
 
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.34
 </span>  
@@ -248,7 +271,7 @@ v 3.0.34
 - Sometimes route duration wasn't updated properly after changing route speed.
 
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 2.0
 </span>  
@@ -261,7 +284,7 @@ v 2.0
 - Introduced 3D display, rotation, and tilt
 - Introduced trip scripting
 
-<div style="background-color: aliceblue; " >
+<div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 1.0
 </span>  

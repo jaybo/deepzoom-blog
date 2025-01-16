@@ -48,6 +48,15 @@ If you want to always zoom to a particular public or private marker use `marker/
 [https://www.deepzoom.com/marker/a61cae5ca877eb87218b82fbdaebe599](https://www.deepzoom.com/marker/a61cae5ca877eb87218b82fbdaebe599)
 {: .notice--warning}
 
+### Load a clipboard link
+Clipboard links let you set most state variables in DeepZoom. Use `s/{StateID}` as in:
+
+[https://www.deepzoom.com/s/20250101-6TTprQ1xJf](https://www.deepzoom.com/s/20250101-6TTprQ1xJf)
+{: .notice--warning}
+
+For more info on clipboard links, see [https://blog.deepzoom.com/release/copy-link/](https://blog.deepzoom.com/release/copy-link/)
+{: .notice--warning}
+
 Or you could have more elaborate scenarios with buttons to load different markers or trips:
 
 ```

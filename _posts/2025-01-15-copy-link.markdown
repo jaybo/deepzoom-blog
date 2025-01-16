@@ -1,0 +1,54 @@
+---
+title: DeepZoom Links - v3.15.9
+date: 2025-01-15 15:41:20 -0800
+categories: release 
+lastmod: 2025-01-15T20:44:01.227Z
+og_image: /assets/images/Link.png
+draft: false
+---
+<script src="{{ base.url | prepend: site.url }}/assets/js/changeSrc.js"></script>
+
+### Links have more features
+
+<div>
+<img src="/assets/images/Link.png"  width="50%" style="border: 2px solid #777; margin-right: 12px;"/>
+</div>
+
+DeepZoom Links are created using the **clipboard copy** button, above.  Links now  include relevant state values such as date and time, playing/paused status, duration, location, zoom, layers, weather and opacities, and tide station, buoy, or marker selected. 
+This makes it easy to share conditions at a particular location. Note that routes, tracks, and private markers are NOT included in the link. 
+To share these items, you'll need to continue sharing a trip.
+
+The goal here is to make sharing easier without the necessity of logging in, creating, naming, and saving a trip.  In summary, there are now three methods of launching DeepZoom while specifying initial content:
+
+| Type | sample url | contents | where is it? |
+| ---- | ---------- | -------  | -------------|
+|**Trip**| https://www.deepzoom.com/trip/dwmfjt2f | all routes, tracks, and private markers | Trips.Share |
+|**Marker**| https://www.deepzoom.com/marker/GNIS1512376/0/ | just select a marker | Copy Link on info tab dropdown |
+|**Clipboard** | https://www.deepzoom.com/s/20250101-Gori7e5ZYP | most state except routes, tracks, and public markers | Clipboard copy button |
+
+#### Clipboard Examples
+
+[Largest Deception Pass Ebb in 2025 (December 4)](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250101-6TTprQ1xJf')"}
+[Current West Sea Otter Buoy conditions near Cape Caution](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250101-y2NOayqC7F')"}
+[Wind and Weather around Cape Cod](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250103-qxypyuHiGO')"}
+[Statue of Liberty current](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250103-bLiKZQVxqc')"}
+
+<div>
+<iframe id="theIframe"
+    title="DeepZoom embedded"
+    width="100%"
+    style="min-width: 375px; height: 70vh;"
+    allow="clipboard-read; clipboard-write"
+    src="https://www.deepzoom.com/trip/dwmfjt2f">
+</iframe>
+</div>
+
+#### Bug Fixes
+
+- Some iOS devices failed to load the map due to this Mapbox bug: [mapbox/mapbox-gl-js#13361](https://github.com/mapbox/mapbox-gl-js/issues/13361). 
+
+- Improved tide and current station click selection accuracy.
+
+
+Tip!  You can embed DeepZoom in your own web pages [https://blog.deepzoom.com/release/embed-deepzoom/](https://blog.deepzoom.com/release/embed-deepzoom/)
+{: .notice--warning}
