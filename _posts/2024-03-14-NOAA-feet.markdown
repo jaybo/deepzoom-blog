@@ -1,5 +1,5 @@
 ---
-title: "DeepZoom - v3.14"
+title: "The Infinite π release - v3.14"
 date: "2024-03-14 12:00:00 -0800"
 categories: release 
 lastmod: "2024-03-14:34:20.077Z"

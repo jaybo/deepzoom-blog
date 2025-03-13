@@ -1,5 +1,5 @@
 ---
-title: "DeepZoom - v3.14.84"
+title: "Scripting Documentation - v3.14.84"
 date: "2024-05-26 12:00:00 -0800"
 categories: release 
 lastmod: "2024-05-26:34:20.077Z"

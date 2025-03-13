@@ -20,7 +20,8 @@ Here are some typical examples
 </iframe>
 </div>
 
-The code:
+
+The HTML:
 ```
 <div>
 <iframe id="theIframe"
@@ -38,6 +39,7 @@ as all geolocation APIs.
 ### Load a trip
 This is the most flexible means of specifying the location, zoom, layers, tab displayed, and virtually all of the settings in DeepZoom.
 You can optionally customize the user experience by adding a script to the trip.
+[https://www.deepzoom.com/doc/index.html](https://www.deepzoom.com/doc/index.html)
 
 [https://www.deepzoom.com/trip/4jvmcnf6](https://www.deepzoom.com/trip/4jvmcnf6)
 {: .notice--warning}
@@ -82,9 +84,18 @@ Hey, how do you get from Hoboken to Carnegie Hall?
 <iframe id="theIframe2"
     title="DeepZoom embedded"
     width="100%"
-    style="min-width: 375px; height: 80vh;"
+    style="min-width: 375px; height: 60vh;"
     src="https://www.deepzoom.com/trip/dwmfjt2f">
 </iframe>
 </div>
+
+### How to Pay for Embedding 
+
+- You can experiment with embedding DeepZoom for free. 
+- When you get serious and exceed the free tier, you can add page load credits to your account at:
+[https://www.deepzoom.com/embed](https://www.deepzoom.com/embed)
+
+
+
 
 
