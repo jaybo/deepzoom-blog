@@ -37,7 +37,7 @@ The goal here is to make sharing easier without the necessity of logging in, cre
 <iframe id="theIframe"
     title="DeepZoom embedded"
     width="100%"
-    style="min-width: 375px; height: 70vh;"
+    style="min-width: 375px; height: 85vh; max-height: 700px"
     allow="clipboard-read; clipboard-write"
     src="https://www.deepzoom.com/trip/dwmfjt2f">
 </iframe>
