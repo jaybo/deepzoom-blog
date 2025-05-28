@@ -10,6 +10,27 @@ draft: false
 
 <div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.16.5
+</span>  
+<span style="float: right; margin: 6px;"  >
+2025.05.27
+</span>
+<hr style="clear: both"/> 
+</div>
+
+
+
+#### New features
+- Merge routes. Just drag route endpoints togeter to merge.
+
+#### Bugs fixed
+- Save a trip with Markers somewhat randomly failed to save the markers. Doh!
+
+
+
+
+<div style="background-color: lightskyblue; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.15.7
 </span>  
 <span style="float: right; margin: 6px;"  >
