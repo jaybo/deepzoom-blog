@@ -17,6 +17,7 @@ You can now merge routes by dragging endpoints together.  The route endpoint bei
 #### Other new features
 
 - An account now includes boatname, which is going to be used in a future feature.
+- Added webcam marker icon.
 
 
 #### Bug Fixes
