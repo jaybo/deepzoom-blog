@@ -10,10 +10,10 @@ draft: false
 
 <div style="background-color: lightskyblue; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
-v 3.16.5
+v 3.16.6
 </span>  
 <span style="float: right; margin: 6px;"  >
-2025.05.27
+2025.05.28
 </span>
 <hr style="clear: both"/> 
 </div>
@@ -25,6 +25,7 @@ v 3.16.5
 
 #### Bugs fixed
 - Save a trip with Markers somewhat randomly failed to save the markers. Doh!
+- Reduced the incidence of spurious route snipping and vertex deletion.
 
 
 
