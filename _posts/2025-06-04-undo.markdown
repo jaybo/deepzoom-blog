@@ -1,0 +1,24 @@
+---
+title: "Undo / Redo - v3.16.8"
+date: "2025-06-04 12:00:00 -0800"
+categories: release 
+lastmod: "2025-06-04:34:20.077Z"
+og_image: /assets/images/undo.png
+---
+
+### Undo / Redo
+
+<img src="/assets/images/undo.png"  width="100%" />
+
+Any operation which alters geometries is automatically saved in an undo stack.
+This includes adding, moving, and deleting markers or routes, as well as reversing routes or trips.
+The entire state of the trip (routes, markers, and scripts) as of that moment is saved as a snapshot. 
+The size of the undo and redo stacks is not limited.
+Any new geometry change resets the redo stack. Loading or saving a trip resets both the undo and the redo stacks.
+
+Note that changes which do *not* affect the geometry are *not* automatically saved.
+So modifications to say route start time or route color are not saved unless the geometry is affected.
+While this may seem like a somewhat arbitrary distinction, undoing state with no immediately visible 
+outcome didn't seem user friendly.
+
+The undo / redo buttons are only visible when in editing mode.

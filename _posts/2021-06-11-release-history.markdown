@@ -8,7 +8,26 @@ draft: false
 ---
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.16.8
+</span>  
+<span style="float: right; margin: 6px;"  >
+2025.06.04
+</span>
+<hr style="clear: both"/> 
+</div>
+
+
+
+#### New features
+- Undo / Redo.  Geometry (routes and markers) modifications automatically trigger an addition to the undo stack. The undo and redo stacks are of unlimited size.
+Note that changing route properties does *not* trigger an undo stack addition unless the geometry is altered. 
+
+
+
+
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.16.6
 </span>  
@@ -30,7 +49,7 @@ v 3.16.6
 
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.15.7
 </span>  
@@ -53,7 +72,7 @@ v 3.15.7
 
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.14.93
 </span>  
@@ -82,7 +101,7 @@ The gory details are [here](https://github.com/mapbox/mapbox-gl-draw/issues/1212
 
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.14.88
 </span>  
@@ -120,7 +139,7 @@ v 3.14.88
 
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.14.0
 </span>  
@@ -147,7 +166,7 @@ v 3.14.0
 
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.1.4
 </span>  
@@ -171,7 +190,7 @@ v 3.1.4
 
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.99
 </span>  
@@ -190,7 +209,7 @@ v 3.0.99
 
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.89
 </span>  
@@ -211,7 +230,7 @@ v 3.0.89
 
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.75
 </span>  
@@ -231,7 +250,7 @@ v 3.0.75
 
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.51
 </span>  
@@ -250,7 +269,7 @@ v 3.0.51
 - Graticule no longer overwrites the top longitude lines at low zoom values
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.48
 </span>  
@@ -268,7 +287,7 @@ v 3.0.48
 
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.0.34
 </span>  
@@ -293,7 +312,7 @@ v 3.0.34
 - Sometimes route duration wasn't updated properly after changing route speed.
 
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 2.0
 </span>  
@@ -306,7 +325,7 @@ v 2.0
 - Introduced 3D display, rotation, and tilt
 - Introduced trip scripting
 
-<div style="background-color: lightskyblue; " >
+<div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 1.0
 </span>  
