@@ -10,6 +10,24 @@ draft: false
 
 <div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.18.1
+</span>  
+<span style="float: right; margin: 6px;"  >
+2025.10.15
+</span>
+<hr style="clear: both"/> 
+</div>
+
+
+
+#### New features
+- Auto routes.
+- Auto route names.
+- Extend manual routes.
+
+
+<div style="background-color: #e0ecff; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.16.8
 </span>  
 <span style="float: right; margin: 6px;"  >
