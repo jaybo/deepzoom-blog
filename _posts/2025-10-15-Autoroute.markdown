@@ -31,6 +31,7 @@ DEEPZOOM IS A PLANNING TOOL.  DO NOT TRUST ANY AUTOMATICALLY GENERATED ROUTE FOR
 DeepZoom uses the "wisdom of the crowd" to define the auto routing network. 
 
 A heatmap of the frequency of AIS tracks over the course of a full year is used to create a network of nodes and edges. 
+Manual editing further refines the network, avoiding obstructions and shallow areas. 
 
 Each edge is a potential pathway. 
 
@@ -41,8 +42,14 @@ Auto routes are the the shortest path through the network between the waypoints 
 
 To remove a waypoint, drag it onto another waypoint which will merge them into a single waypoint. 
 
-Manual editing further refines the network, avoiding obstructions and shallow areas. 
 
+Editing and verifying the network is a massive undertaking.  I started with waters I've frequented, and expanded from there.  Feedback is welcome!  What works, what doesn't.
+The best way to show an error is either a screen shot with LatLong displayed, or click on the copy link button in the upper left corner of the display and paste that into an email
+to jay at deepzoom.com. 
+{: .notice--warning}
+
+Do you have an interest in helping edit the network? If so, drop me an email, again jay at deepzoom.com.
+{: .notice--warning}
 
 
 ### Other new features
