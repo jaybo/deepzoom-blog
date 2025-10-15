@@ -1,6 +1,6 @@
 ---
 title: "Auto routes - v3.18"
-date: "2025-10-15 12:00:00 -0800"
+date: "2025-10-14 12:00:00 -0800"
 categories: release 
 og_image: /assets/images/AutorouteNY.png
 ---
