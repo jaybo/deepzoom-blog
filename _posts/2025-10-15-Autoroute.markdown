@@ -1,11 +1,11 @@
 ---
-title: "Auto routes - v3.18"
+title: "Automatic routes - v3.18"
 date: "2025-10-14 12:00:00 -0800"
 categories: release 
 og_image: /assets/images/AutorouteNY.png
 ---
 
-### Auto routes
+### Automatic routes
 
 
 <img src="/assets/images/AutorouteNY.png" style="box-shadow: 4px 4px 4px 0px rgba(0,0,0,0.5); margin-top: 12px; margin-bottom: 12px" width="40%" />{: .shadow .align-left .toc}
@@ -33,8 +33,7 @@ DeepZoom uses the "wisdom of the crowd" to define the auto routing network.
 A heatmap of the frequency of AIS tracks over the course of a full year is used to create a network of nodes and edges. 
 Manual editing further refines the network, avoiding obstructions and shallow areas. 
 
-Each edge is a potential pathway. 
-
+Each edge is a potential pathway. <br>
 Each node is a potential waypoint.  
 
 {: .cf}
