@@ -21,9 +21,9 @@ Once you're satisfied with the route, exit Autoroute mode.  You can then further
 
 Routes can be arbitrarily long and are pretty fast!  Try something wild like starting a route in Anchorage, AK and ending in Newport R.I. 
 
-<div class="fitvidsignore">
+<!-- <div class="fitvidsignore">
     <iframe  width="540" height="960" style="max-height: 80vh" src="https://www.youtube.com/embed/XbvrlLgNYgg?si=AS3kMS_gn6c_JKKy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
-</div>
+</div> -->
 
 DEEPZOOM IS A PLANNING TOOL.  DO NOT TRUST ANY AUTOMATICALLY GENERATED ROUTE FOR NAVIGATION WITHOUT THOROUGH REVIEW.  AUTO CREATED ROUTES ARE NOT FILTERED BASED ON THE DRAFT OF YOUR VESSEL. SOMETIMES THE AUTO ROUTE IS ONLY A FEW FEET DEEP SUCH AS THE GULF ICW!
 {: .notice--danger}
