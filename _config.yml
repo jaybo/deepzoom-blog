@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.deepzoom.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "jaybo/deepzoom-blog"
-logo: "/assets/images/arrow48x48.png"
+logo: "/assets/images/arrow.png"
 
 twitter_username: jayborseth
 github_username:  jaybo
@@ -67,6 +67,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Logging DeepZoom releases, trips, and features *as they happen*."
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.deepzoom.com"
     - label: "Release history"
       icon: "fas fa-fw fa-lemon"
       url: "/release/release-history/"
@@ -79,12 +82,9 @@ author:
     - label: "Discussion forum"
       icon: "fas fa-fw fa-user-friends"
       url: "https://github.com/jaybo/deepzoom-blog/discussions"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.deepzoom.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jayborseth"
+    - label: "Threads"
+      icon: "fas fa-at"
+      url: "https://www.threads.com/@borseth.jay"
 
 
 
