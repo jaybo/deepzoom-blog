@@ -8,6 +8,24 @@ draft: false
 ---
 
 
+
+<div style="background-color: #e0ecff; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.20.0
+</span>  
+<span style="float: right; margin: 6px;"  >
+2026.01.24
+</span>
+<hr style="clear: both"/> 
+</div>
+
+#### New features
+- International charts.
+- Tides and currents updated.
+- Magnetic variation model updated.
+
+
+
 <div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.18.1
@@ -17,8 +35,6 @@ v 3.18.1
 </span>
 <hr style="clear: both"/> 
 </div>
-
-
 
 #### New features
 - Auto routes.
@@ -35,8 +51,6 @@ v 3.16.8
 </span>
 <hr style="clear: both"/> 
 </div>
-
-
 
 #### New features
 - Undo / Redo.  Geometry (routes and markers) modifications automatically trigger an addition to the undo stack. The undo and redo stacks are of unlimited size.

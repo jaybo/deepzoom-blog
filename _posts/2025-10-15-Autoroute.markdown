@@ -7,8 +7,7 @@ og_image: /assets/images/AutorouteNY.png
 
 ### Automatic routes
 
-
-<img src="/assets/images/AutorouteNY.png" style="box-shadow: 4px 4px 4px 0px rgba(0,0,0,0.5); margin-top: 12px; margin-bottom: 12px" width="40%" />{: .shadow .align-left .toc}
+<img src="/assets/images/AutorouteNY.png"  style="box-shadow: 4px 4px 4px 0px rgb(128,128,128); margin-top: 12px; margin-bottom: 12px "   width="40%" />{: .border .align-left .toc}
 
 You can now automatically create routes!  
 
@@ -30,7 +29,7 @@ DEEPZOOM IS A PLANNING TOOL.  DO NOT TRUST ANY AUTOMATICALLY GENERATED ROUTE FOR
 
 ### How it works
 
-<img src="/assets/images/AutorouteHeatmap.png"  style="box-shadow: 4px 4px 4px 0px rgba(0,0,0,0.5); margin-top: 12px; margin-bottom: 12px "   width="50%" />{: .border .align-left .toc}
+<img src="/assets/images/AutorouteHeatmap.png"  style="box-shadow: 4px 4px 4px 0px rgb(128,128,128); margin-top: 12px; margin-bottom: 12px "   width="50%" />{: .border .align-left .toc}
 
 DeepZoom uses the "wisdom of the crowd" to define the auto routing network. 
 
