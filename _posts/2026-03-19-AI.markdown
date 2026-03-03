@@ -1,0 +1,47 @@
+---
+title: "AI - v3.25"
+date: "2026-03-19 12:00:00 -0800"
+categories: release 
+og_image: /assets/images/ClaudeDialog.png
+draft: true
+---
+
+
+### Oh, no, NOT AI!
+
+I'm coming late to the messing around with AI party.  Partly, it was dissatisfaction with early code completion helpers which seemed alternately helpful and destructive in about even measure. Maybe a fearful premonition that most of my skills are soon to be obsolete.  Then I had a few episodes of being gobsmacked by what Claude could do as a coding assistant and then began hooking up Claude as a DeepZoom assistant.
+
+I know!  Seems crazy at first, but there are a bunch of cool new features and simplifications that this integration unlocks.
+
+<img src="/assets/images/ClaudeDialog.png"  style="box-shadow: 4px 4px 4px 0px rgb(128,128,128); margin-top: 12px; margin-bottom: 12px "   width="60%" />{: .border .align-center .toc}
+
+<b><i>Hint</i></b> You can click the right arrow to execute the sample commands.
+{: .notice--warning}
+
+## Examples
+
+<ul>
+<li><i>color each route alternately blue, green, and red</i></li>
+<li><i>make the first route start July 4th at 9am, and the second route start two days later</i></li>
+<li><i>What is a knot?</i></li>
+</ul>
+
+
+<b><i>Hint</i></b> When changing topics with Claude, it helps to press the "Clear" button to remove previous context.
+{: .notice--warning}
+
+## Caveats
+
+This is band new code!  Possibly buggy!  Use at your own risk! Save often!
+
+Furthermore, part of Claude's responses are conditioned by the context provided for each command along with the "System Prompt" provided generally to acquaint Claude to DeepZoom's universe of concerns.  This prompt is unexpectedly tricky to get right, and Claude's responses can vary with slight changes in punctuation and emphasis.  Kind of a herding cats situation.  This text is undergoing continuous refinement, and you can expect the results will vary with each release.
+
+Not all DeepZoom command features are yet integrated in the the Claude prompt.  Let me know if there's any additional automation features you'd find useful.
+
+
+## Wait, who's paying for this?
+
+Presently, Claude self-reports a cost of about $0.005 - $0.07 per call, although my Anthropic charges seem to be accumulating at a much higher rate :(
+
+For the moment, since I haven't figured out how to charge high use users for this new feature.  So it's free for the near future, until either the charges get burdensome or I figure out some alternative.  Any ideas?
+
