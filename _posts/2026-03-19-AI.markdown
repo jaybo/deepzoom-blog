@@ -52,7 +52,7 @@ Preface commands with "New Trip." to remove existing routes and markers.  Or you
 
 ## Caveats
 
-**This is brand new code!  Possibly buggy!  Use at your own risk! Save often!**
+**Claude makes mistakes!  This is brand new code!  Possibly buggy!  Use at your own risk! Save often!**
 
 Claude's responses are influenced both by the text you provide for each command and by the "System Prompt" used to acquaint Claude to DeepZoom's universe of concerns.  This "System Prompt" is unexpectedly tricky to get right, and Claude's responses can vary with slight changes in emphasis and punctuation.  Kind of a herding cats situation.  The "System Prompt" is undergoing continuous refinement, and consequently you can expect your results will vary with each DeepZoom release.
 
