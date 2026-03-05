@@ -9,6 +9,8 @@ draft: true
 
 ### Oh, no, NOT AI!
 
+<img src="/assets/images/Claude.png"  style="box-shadow: 4px 4px 4px 0px rgb(128,128,128); margin-top: 12px; margin-bottom: 12px "   width="60%" />{: .border .align-center .toc}
+
 I'm coming late to the messing around with AI party.  Partly, it was dissatisfaction with early code completion helpers which seemed alternately helpful and destructive in about even measure. Maybe a fearful premonition that most of my skills are soon to be obsolete.  Then I had a few episodes of being gobsmacked by what Claude could do as a coding assistant and then began hooking up Claude as a DeepZoom assistant.
 
 I know!  Seems crazy at first, but there are a bunch of cool new features and simplifications that this integration unlocks.
@@ -20,21 +22,39 @@ I know!  Seems crazy at first, but there are a bunch of cool new features and si
 
 ## Examples
 
+Preface commands with "New Trip." to remove existing routes and markers.  Or you can delete by type "delete all routes".
+
+#### Routes
 <ul>
+<li><i>New Trip. Create three routes, the first from Seattle to Everett, the second from Everett to Bellingham, and the third from Bellingham to Vancouver.  Each at a speed of 6 knots.  Start each route on subsequent days.  All departing at 9am in the morning. The first trip departs on July 4th.</i></li>
 <li><i>color each route alternately blue, green, and red</i></li>
-<li><i>make the first route start July 4th at 9am, and the second route start two days later</i></li>
-<li><i>What is a knot?</i></li>
+<li><i>make the first route start July 2nd at 10am, and the second route start two days later. Make the route to Vancouver begin when the second route completes.</i></li>
+<li><i>delete all routes.</i></li>
 </ul>
 
+#### Markers
+<ul>
+<li><i>add a marker</i></li>
+<li><i>create a marker with the name "HH:MM" and using a pin icon</i></li>
+<li><i>change all markers to the fishing icon</i></li>
+</ul>
+
+#### General
+<ul>
+<li><i>What is a knot?</i></li>
+<li><i>Show help</i></li>
+<li><i>How do I get to Carnegie Hall</i></li>
+
+</ul>
 
 <b><i>Hint</i></b> When changing topics with Claude, it helps to press the "Clear" button to remove previous context.
 {: .notice--warning}
 
 ## Caveats
 
-This is band new code!  Possibly buggy!  Use at your own risk! Save often!
+**This is brand new code!  Possibly buggy!  Use at your own risk! Save often!**
 
-Furthermore, part of Claude's responses are conditioned by the context provided for each command along with the "System Prompt" provided generally to acquaint Claude to DeepZoom's universe of concerns.  This prompt is unexpectedly tricky to get right, and Claude's responses can vary with slight changes in punctuation and emphasis.  Kind of a herding cats situation.  This text is undergoing continuous refinement, and you can expect the results will vary with each release.
+Claude's responses are influenced both by the text you provide for each command and by the "System Prompt" used to acquaint Claude to DeepZoom's universe of concerns.  This "System Prompt" is unexpectedly tricky to get right, and Claude's responses can vary with slight changes in emphasis and punctuation.  Kind of a herding cats situation.  The "System Prompt" is undergoing continuous refinement, and consequently you can expect your results will vary with each DeepZoom release.
 
 Not all DeepZoom command features are yet integrated in the the Claude prompt.  Let me know if there's any additional automation features you'd find useful.
 
@@ -43,5 +63,5 @@ Not all DeepZoom command features are yet integrated in the the Claude prompt.  
 
 Presently, Claude self-reports a cost of about $0.005 - $0.07 per call, although my Anthropic charges seem to be accumulating at a much higher rate :(
 
-For the moment, since I haven't figured out how to charge high use users for this new feature.  So it's free for the near future, until either the charges get burdensome or I figure out some alternative.  Any ideas?
+For the moment, I haven't figured out how to charge high use users for this new feature.  So it's free for the near future, until either the charges get burdensome or I figure out some alternative.  Any ideas, other than raising the price or requiring a separate purchase of a block of AI credits? 
 
