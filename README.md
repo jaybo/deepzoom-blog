@@ -14,7 +14,16 @@
 
 
 
+### Drafts
 
+_config.yml:  add the following to view future posts
+future: true
+
+Then in your _config.yml, make sure future posts are shown:
+future: true
+The draft: true flag doesn't do anything by itself in Jekyll — it's a signal to you (and optionally to your templates). If you want it visually marked, you could add a banner in a custom layout checking {% if page.draft %}.
+
+### Testing
 
 Ubuntu -20.04 (WSL)
-jayb@nomad-5:/mnt/d/devGit/deepzoom-blog$     bundle exec jekyll serve --force_polling
+/mnt/d/devGit/deepzoom-blog$     bundle exec jekyll serve --force_polling

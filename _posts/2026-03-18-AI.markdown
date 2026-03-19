@@ -11,7 +11,6 @@ draft: false
 
 <img src="/assets/images/Claude.png"  style="box-shadow: 4px 4px 4px 0px rgb(128,128,128); margin-top: 12px; margin-bottom: 12px "   width="60%" />{: .border .align-center .toc}
 
-I'm coming late to the messing around with AI party.  Partly, it was dissatisfaction with early code completion helpers which seemed alternately helpful and destructive in about even measure. Maybe a fearful premonition that most of my skills are soon to be obsolete.  Then I had a few episodes of being gobsmacked by what Claude could do as a coding assistant and then began hooking up Claude as a DeepZoom assistant.
 
 I know!  Seems crazy at first, but there are a bunch of cool new features and simplifications that this integration unlocks.
 
@@ -65,3 +64,13 @@ Presently, Claude self-reports a cost of about $0.005 - $0.07 per call, although
 
 For the moment, I haven't figured out how to charge high use users for this new feature.  So it's free for the near future, until either the charges get burdensome or I figure out some alternative.  Any ideas, other than raising the price or requiring a separate purchase of a block of AI credits? 
 
+## Autorouting network
+
+Some additions have been made to the autorouting network, but it's far from finished.  But you can now sail around the world and even through the Strait of Hormuz if you're feeling lucky.
+
+
+<img src="/assets/images/AlexandriaToBahrain.png"  style="box-shadow: 4px 4px 4px 0px rgb(128,128,128); margin-top: 12px; margin-bottom: 12px "   width="60%" />{: .border .align-center .toc}
+
+By default, routes traversing the Northwest Passage are disabled, just because most sailors probably don't want to use this shorter but more challenging option.  But you can enable Northwest Passage routes by a checkbox in Settings.Routes.  You'll need to restart DeepZoom to have this change take effect.
+
+<img src="/assets/images/AutorouteNWPassage.png"  style="box-shadow: 4px 4px 4px 0px rgb(128,128,128); margin-top: 12px; margin-bottom: 12px "   width="60%" />{: .border .align-center .toc}

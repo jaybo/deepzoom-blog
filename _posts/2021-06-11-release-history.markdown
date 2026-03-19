@@ -8,6 +8,22 @@ draft: false
 ---
 
 
+<div style="background-color: #e0ecff; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.25.0
+</span>  
+<span style="float: right; margin: 6px;"  >
+2026.03.19
+</span>
+<hr style="clear: both"/> 
+</div>
+
+#### New features
+- Anthropic Claude integration.
+- World autorouting network updated.
+
+
+
 
 <div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
