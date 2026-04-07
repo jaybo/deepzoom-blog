@@ -3,6 +3,11 @@
 ---
 @charset "utf-8";
 
+// Override sidebar width variables (must be before @import to work with !default)
+$right-sidebar-width-narrow: 180px; // default: 200px
+$right-sidebar-width: 180px;        // default: 300px
+$right-sidebar-width-wide: 180px;   // default: 400px
+
 @import "minimal-mistakes";
 
 // Add your custom styles below this line

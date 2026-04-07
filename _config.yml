@@ -23,6 +23,8 @@ url: "https://blog.deepzoom.com" # the base hostname & protocol for your site, e
 repository: "jaybo/deepzoom-blog"
 logo: "/assets/images/arrow.png"
 
+future: true
+
 twitter_username: jayborseth
 github_username:  jaybo
 minimal_mistakes_skin: contrast
@@ -65,9 +67,9 @@ plugins:
 author:
   name   : "Jay Borseth"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Logging DeepZoom releases, trips, and features *as they happen*."
+  bio    : ""
   links:
-    - label: "Website"
+    - label: "www.deepzoom.com"
       icon: "fas fa-fw fa-link"
       url: "https://www.deepzoom.com"
     - label: "Release history"
