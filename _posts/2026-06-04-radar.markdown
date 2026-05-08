@@ -48,10 +48,10 @@ Selecting public markers to view has now moved into the Settings.Markers dialog.
 
 Somehow, my Anthropic key leaked and hackers were gobbling up my AI credits at a rate of $10/hour. Yikes! To limit future damage, Claude use per subscriber now has the following limits:
 
-Subscribers now receive $2.00 AI credits at each renewal.
-Lifetime subscribers receive a flat $30 AI credits.
+- Subscribers now receive $2.00 AI credits at each renewal.
+- Lifetime subscribers receive a flat $30 AI credits.
 
-I doubt anyone will reach these limits, and if so, we'll add some .
+I doubt anyone will reach these limits (I'm personally at about $2 after many months of frequent usage), and if so, we'll add some mechanism to buy more credits.
 
 ### Bug fixes
 
