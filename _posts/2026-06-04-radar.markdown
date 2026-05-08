@@ -1,0 +1,64 @@
+---
+title: "Radar and UI - v3.27"
+date: "2026-05-03 12:00:00 -0800"
+categories: release
+lastmod: "2026-05-03:34:20.077Z"
+og_image: /assets/images/radar.png
+---
+
+<div style="background-color: #eee; margin-top: 20px">
+<iframe id="theIframeRadar"
+    title="DeepZoom radar"
+    width="95%"
+    style="min-width: 375px; height: 85vh; max-height: 700px"
+    allow="clipboard-read; clipboard-write"
+    src="https://www.deepzoom.com/s/20260505-0ybL1FDpiH">
+</iframe>
+</div>
+
+### Radar
+
+Say hello to the new radar layer courtesy Iowa Environmental Mesonet. Color coding of the dBZ intensity levels follows NOAA conventions. The radar layer auto-updates every 5 minutes.
+
+<img src="/assets/images/radarDBZ.png"  style="box-shadow: 4px 4px 4px 0px rgb(128,128,128); margin-top: 12px; margin-bottom: 12px "   width="80%" />{: .border .align-center .toc}
+
+| dBZ   | What it means physically                              |
+| ----- | ----------------------------------------------------- |
+| < 20  | Tiny droplets — light drizzle, mist, or insects/birds |
+| 20–30 | Light rain, small drops                               |
+| 30–40 | Moderate rain                                         |
+| 40–50 | Heavy rain, possible small hail                       |
+| 50–60 | Very heavy rain, likely hail mixed in                 |
+| > 60  | Large hail dominant — rain contribution is secondary  |
+{: style="display: table; width: auto; margin-left: auto; margin-right: auto;"}
+
+It's fun to compare actual dBZ radar moisture radar against NOAA GFS rain forecasts as in the demo above.
+
+Note that if you toggle on the radar layer, the **timebase** switches to one hour duration, starting one hour prior the present moment. If you toggle the radar layer off, the timebase returns to its previous setting.
+
+### UI changes
+
+I've spent a ridiculous number of hours prototyping different UI controls for layer selection, all of which were icon based. Then my friend Andy questioned the cognitive load of icons vs just WORDS, and I felt a lightbulb go off in my head.
+
+Click the right side of the control (the opacity level), to control the opacity without toggling the level on / off.
+
+Selecting public markers to view has now moved into the Settings.Markers dialog.
+
+### AI Usage
+
+Somehow, my Anthropic key leaked and hackers were gobbling up my AI credits at a rate of $10/hour. Yikes! To limit future damage, Claude use per subscriber now has the following limits:
+
+Subscribers now receive $2.00 AI credits at each renewal.
+Lifetime subscribers receive a flat $30 AI credits.
+
+I doubt anyone will reach these limits, and if so, we'll add some .
+
+### Bug fixes
+
+- The British Columbia provincial decision to avoid biannual DST transitions required updates to [moment-timezone](https://github.com/moment/moment-timezone/issues/1141#issuecomment-4015594101).
+
+> In fact, it's this long-standing colloquial usage that is causing consternation on the **tzdb** list at the moment. Due to this poorly-consulted decision from the BC government, the term "Pacific Time" will now mean two completely different time offsets for half the year, depending on where it's used. issue has been resolved.
+
+> Note that the abbreviation that's coming from tzdb is "MST" (Mountain Standard Time), not "PT", because of the compatibility concerns mentioned above.
+
+So BC in the MST timezone year around going forward.

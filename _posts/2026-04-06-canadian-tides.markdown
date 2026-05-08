@@ -1,5 +1,5 @@
 ---
-title: Canadian tides and currents - v3.26.0
+title: Canadian tides and currents - v3.26
 date: 2026-04-06 15:41:20 -0800
 categories: release 
 lastmod: 2026-04-06 15:41:20 -0800
