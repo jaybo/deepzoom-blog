@@ -9,8 +9,8 @@ og_image: /assets/images/radar.png
 <div style="background-color: #eee; margin-top: 20px">
 <iframe id="theIframeRadar"
     title="DeepZoom radar"
-    width="95%"
-    style="min-width: 375px; height: 85vh; max-height: 700px"
+    width="98%"
+    style="min-width: 375px; height: 100vh; max-height: 720px"
     allow="clipboard-read; clipboard-write"
     src="https://www.deepzoom.com/s/20260505-0ybL1FDpiH">
 </iframe>
