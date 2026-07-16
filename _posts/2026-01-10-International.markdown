@@ -69,12 +69,12 @@ While cruising last summer north of Vancouver Island, ML took a tumble while hik
 
 Full listing is at [https://www.yachtworld.com/yacht/1997-pacific-seacraft-40-10013258/](https://www.yachtworld.com/yacht/1997-pacific-seacraft-40-10013258/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EvehiQb3BCI?si=y-xyWwbcdunFXdu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="serenade1" width="560" height="315" src="https://www.youtube.com/embed/EvehiQb3BCI?si=y-xyWwbcdunFXdu6" title="YouTube video player1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6clztxBnuNk?si=ZEdm1swA8HQLEsY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="serenade2" width="560" height="315" src="https://www.youtube.com/embed/6clztxBnuNk?si=ZEdm1swA8HQLEsY4" title="YouTube video player2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1yhuHVm3f-o?si=txRmIoDjJ-dPl0Mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe id="serenade3" width="560" height="315" src="https://www.youtube.com/embed/1yhuHVm3f-o?si=txRmIoDjJ-dPl0Mc" title="YouTube video player3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
