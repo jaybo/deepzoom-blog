@@ -25,7 +25,7 @@ Preface commands with "New Trip." to remove existing routes and markers.  Or you
 
 #### Routes
 <ul>
-<li><i>New Trip. Create three routes, the first from Seattle to Everett, the second from Everett to Bellingham, and the third from Bellingham to Vancouver.  Each at a speed of 6 knots.  Start each route on subsequent days.  All departing at 9am in the morning. The first trip departs on July 4th.</i></li>
+<li><i>New Trip. Create three routes, the first from Seattle to Everett, the second from Everett to Bellingham, and the third from Bellingham to Vancouver.  Each at a speed of 6 knots.  Start each route on subsequent days.  All departing at 9am in the morning. The first trip departs on July 4th. Make each route a different color.</i></li>
 <li><i>color each route alternately blue, green, and red</i></li>
 <li><i>make the first route start July 2nd at 10am, and the second route start two days later. Make the route to Vancouver begin when the second route completes.</i></li>
 <li><i>delete all routes.</i></li>
@@ -36,6 +36,7 @@ Preface commands with "New Trip." to remove existing routes and markers.  Or you
 <li><i>add a marker</i></li>
 <li><i>create a marker with the name "HH:MM" and using a pin icon</i></li>
 <li><i>change all markers to the fishing icon</i></li>
+<li><i>create a JSON lat, lng array from the coordinates of all of my markers</i></li>
 </ul>
 
 #### General
@@ -62,7 +63,9 @@ Not all DeepZoom command features are yet integrated in the the Claude prompt.  
 
 Presently, Claude self-reports a cost of about $0.005 - $0.07 per call, although my Anthropic charges seem to be accumulating at a much higher rate :(
 
-For the moment, I haven't figured out how to charge high use users for this new feature.  So it's free for the near future, until either the charges get burdensome or I figure out some alternative.  Any ideas, other than raising the price or requiring a separate purchase of a block of AI credits? 
+~~For the moment, I haven't figured out how to charge high use users for this new feature.  So it's free for the near future, until either the charges get burdensome or I figure out some alternative.  Any ideas, other than raising the price or requiring a separate purchase of a block of AI credits?~~
+
+Update: Each subscription gets an automatic $2.00 AI credit.  Lifetime subscribers get a $20 credit.  AI keeps working until you drain your credits.  In reality, I doubt any subscriber will reach this limit. After months of continuous developent/use, I've only hit this limit once.  If you do, let me know (and what you're doing since I'm curious) and I'll add more credits to your account. 
 
 ## Autorouting network
 

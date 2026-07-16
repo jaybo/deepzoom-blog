@@ -60,7 +60,21 @@ DeepZoom optionally displays the magnetic heading for each leg of a route (see t
 
 It is with great sadness that we've decided to put Serenade up for sale.  Serenade is a 1997 40' Pacific Seacraft cutter designed by Bill Crealock.  We have been through many adventures together over the last 25 years and I can vouch that Serenade is a sturdy and stalwart companion, a beautiful and safe haven in any and every storm.  
 
+The term "sea kindly" is used to describe this family of designs by Bill
+Crealock. Having experienced rough weather in many situations, and soloed for weeks at a time, I've found Serenade to be reliable
+and terrifically stable.  No creaking, wobbling, and it takes a lot of wind to sink the rail.  Yet, she can ghost along on a breeze. 
+
 While cruising last summer north of Vancouver Island, ML took a tumble while hiking (she claims forest trolls pushed her) and has had a two surgeries to fix a badly broken elbow. And I have a shoulder which is unraveling a few decades after a serious motorcycle accident, so it's time to introduce Serenade to new traveling companions.
 
 
 Full listing is at [https://www.yachtworld.com/yacht/1997-pacific-seacraft-40-10013258/](https://www.yachtworld.com/yacht/1997-pacific-seacraft-40-10013258/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EvehiQb3BCI?si=y-xyWwbcdunFXdu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6clztxBnuNk?si=ZEdm1swA8HQLEsY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1yhuHVm3f-o?si=txRmIoDjJ-dPl0Mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

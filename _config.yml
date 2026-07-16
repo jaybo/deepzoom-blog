@@ -69,7 +69,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
   links:
-    - label: "www.deepzoom.com"
+    - label: "deepzoom.com"
       icon: "fas fa-fw fa-link"
       url: "https://www.deepzoom.com"
     - label: "Release history"
