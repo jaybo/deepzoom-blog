@@ -22,7 +22,7 @@ DeepZoom has always shown tidal currents as arrows at official current stations 
 
 Turn it on and you get three things:
 
-- **Color** for speed. The scale is stepped in discrete bands of an eighth of a knot each, so equal-speed regions read as a filled contour.
+- **Color** for speed. The scale is stepped in discrete bands, so equal-speed regions read as a filled contour.
 - **Streamers** — show direction, speed, and structure. 
 - **Speed readout** (optional) at the center crosshair, in your chosen units. Off by default, but you can enable this at <i>Settings → Map → Show spatial current velocity at center</i>, but, see below...
 
