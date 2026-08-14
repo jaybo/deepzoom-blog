@@ -5,8 +5,6 @@ categories: release
 og_image: /assets/images/Serenade4.jpg
 ---
 
-## Serenade is for sale 
-
 <img src="/assets/images/Serenade4.jpg" style="box-shadow: 4px 4px 4px 0px color:rgb(128,128,128); margin-top: 12px; margin-bottom: 12px" width="100%" />{: .shadow .align-left .toc}
 
 <img src="/assets/images/Serenade2.jpg" style="box-shadow: 4px 4px 4px 0px color:rgb(128,128,128); margin-top: 12px; margin-bottom: 12px" width="100%" />{: .shadow .align-left .toc}
