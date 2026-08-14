@@ -78,3 +78,71 @@ Full listing is at [https://www.yachtworld.com/yacht/1997-pacific-seacraft-40-10
 <br/>
 
 <iframe id="serenade3" width="560" height="315" src="https://www.youtube.com/embed/1yhuHVm3f-o?si=txRmIoDjJ-dPl0Mc" title="YouTube video player3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/>
+
+<h2>Recent Upgrades &amp; Service Record</h2>
+
+<h2>October 2025 &mdash; 3,200 engine hours</h2>
+<ul>
+  <li>Bottom paint &mdash; two coats SeaHawk Cukote, dark blue</li>
+  <li>Max-Prop serviced</li>
+  <li>Propspeed foul-release coating applied to prop</li>
+  <li>Hull waxed</li>
+</ul>
+
+<h2>June 2025</h2>
+<ul>
+  <li>New house battery bank &mdash; 2 Rolls 8D AGM, 250 Ah, 500 Ah total</li>
+</ul>
+
+<h2>April 2025</h2>
+<ul>
+  <li>All cabin and berth cushion foam replaced</li>
+  <li>All cushion covers laundered</li>
+</ul>
+
+<h2>February 2025</h2>
+<ul>
+  <li>Yanmar 4JH2E service:
+    <ul>
+      <li>Injectors rebuilt</li>
+      <li>Lube oil cooler replaced</li>
+      <li>Valve adjustment</li>
+      <li>Fuel filters, engine coolant, oil pressure sensor, and impeller replaced</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>June 2024</h2>
+<ul>
+  <li>New Iverson dodger</li>
+</ul>
+
+<h2>February 2023</h2>
+<ul>
+  <li>Lifelines replaced</li>
+</ul>
+
+<h2>December 2022</h2>
+<ul>
+  <li>Bottom paint &mdash; two coats SeaHawk Cukote, dark blue</li>
+</ul>
+
+<h2>July 2021 &mdash; 2,843 engine hours</h2>
+<ul>
+  <li>Mixing exhaust elbow replaced</li>
+  <li>Rubber engine mounts replaced</li>
+  <li>Stuffing box repacked</li>
+</ul>
+
+<h2>June 2017 &mdash; 2,235 engine hours</h2>
+<ul>
+  <li>New Doyle full batten mainsail and Stack Pack</li>
+  <li>New running rigging</li>
+</ul>
+
+<h2>November 2016</h2>
+<ul>
+  <li>Mast and whisker pole repainted &mdash; Awlgrip Cream</li>
+</ul>
