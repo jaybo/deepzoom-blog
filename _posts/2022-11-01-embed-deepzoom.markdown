@@ -16,7 +16,7 @@ Here are some typical examples
         title="DeepZoom embedded iFrame1"
         width="100%"
         style="min-width: 365px; height: 85vh; max-height: 700px"
-        src="https://www.deepzoom.com/trip/yzahbfym">
+        src="https://www.deepzoom.com/trip/pxv5bhd2">
     </iframe>
 </div>
 
@@ -28,7 +28,7 @@ The HTML:
         title="DeepZoom embedded iFrame1"
         width="100%"
         style="min-width: 365px; height: 85vh; max-height: 700px"
-        src="https://www.deepzoom.com/trip/yzahbfym">
+        src="https://www.deepzoom.com/trip/pxv5bhd2">
     </iframe>
 </div>
 ```
@@ -85,7 +85,7 @@ Hey, how do you get from Hoboken to Carnegie Hall?
     title="DeepZoom embedded"
     width="100%"
     style="min-width: 365px; height: 85vh; max-height: 700px"
-    src="https://www.deepzoom.com/trip/dwmfjt2f">
+    src="https://www.deepzoom.com/trip/4gawfsfg">
 </iframe>
 </div>
 

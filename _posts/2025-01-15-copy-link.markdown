@@ -22,7 +22,7 @@ The goal here is to make sharing easier without the necessity of logging in, cre
 
 | Type | sample url | contents | where is it? |
 | ---- | ---------- | -------  | -------------|
-|**Trip**| https://www.deepzoom.com/trip/dwmfjt2f | all routes, tracks, and private markers | Trips.Share |
+|**Trip**| https://www.deepzoom.com/trip/pxv5bhd2 | all routes, tracks, and private markers | Trips.Share |
 |**Marker**| https://www.deepzoom.com/marker/GNIS1512376/0/ | just select a marker | Copy Link on info tab dropdown |
 |**Clipboard** | https://www.deepzoom.com/s/20250101-Gori7e5ZYP | most state except routes, tracks, and public markers | Clipboard copy button |
 
@@ -31,7 +31,7 @@ The goal here is to make sharing easier without the necessity of logging in, cre
 [Largest Deception Pass Ebb in 2025 (December 4)](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250101-6TTprQ1xJf')"}
 [Current West Sea Otter Buoy conditions near Cape Caution](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250101-y2NOayqC7F')"}
 [Wind and Weather around Cape Cod](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250103-qxypyuHiGO')"}
-[Statue of Liberty current](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250103-bLiKZQVxqc')"}
+[Statue of Liberty current](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20260916-V0OHSBiE28')"}
 
 <div>
 <iframe id="theIframe"
@@ -39,7 +39,7 @@ The goal here is to make sharing easier without the necessity of logging in, cre
     width="100%"
     style="min-width: 375px; height: 85vh; max-height: 700px"
     allow="clipboard-read; clipboard-write"
-    src="https://www.deepzoom.com/trip/dwmfjt2f">
+    src="https://www.deepzoom.com/trip/pxv5bhd2">
 </iframe>
 </div>
 

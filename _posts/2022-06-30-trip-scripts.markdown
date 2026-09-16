@@ -36,9 +36,3 @@ Also, trip **before** events are only executed once when the trip is first loade
 
 1. After saving a trip, the timebase sometimes did not account for the last route in the trip.  
 
-### Seattle to Glacier Bay updated
-
-This trip has been updated to use route scripts, changing the nautical chart opacity to "0" during the Canadian routes.
-
-Try it: [https://www.deepzoom.com/trip/4jvmcnf6](https://www.deepzoom.com/trip/4jvmcnf6)
-{: .notice--warning}
