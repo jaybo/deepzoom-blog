@@ -31,7 +31,7 @@ The goal here is to make sharing easier without the necessity of logging in, cre
 [Largest Deception Pass Ebb in 2025 (December 4)](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250101-6TTprQ1xJf')"}
 [Current West Sea Otter Buoy conditions near Cape Caution](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250101-y2NOayqC7F')"}
 [Wind and Weather around Cape Cod](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250103-qxypyuHiGO')"}
-[Statue of Liberty current](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20260916-V0OHSBiE28')"}
+[Statue of Liberty current](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20260917-o0HnatmgUW')"}
 
 <div>
 <iframe id="theIframe"
