@@ -27,6 +27,8 @@ DeepZoom got a UI makeover in this release.  With the help of Anthropic's Claude
     >Open Waters</a> 
 has begun publication of open source vector charts and this layer has been incorporated into DeepZoom.  It should be considered experimental, spatial resolution varies throughout the world, and the tide level datum is not uniform but rather varies with the source of the chart data.
 
+You can select depth units of meters or feet on the Settings page.
+
 This layer is undergoing rapid development.
 
 <img src="/assets/images/VectorCharts.png"  style="box-shadow: 4px 4px 4px 0px rgb(128,128,128); margin-top: 12px; margin-bottom: 12px "   width="80%" />{: .border .align-center .toc}
