@@ -52,12 +52,9 @@ Tracks and tracking got a major upgrade in this release.
 
 ### World wide tide stations
 
-Tide station coverage is now worldwide using data from   
-<a
-    href="https://openwaters.io"
+Tide station coverage is now worldwide using data from <a href="https://openwaters.io"
     target="_blank"
-    > Open Waters</a>.
-These stations are mostly derived from TICON-4.
+    > Open Waters</a>.  These stations are mostly derived from TICON-4.
 Tide stations in USA and Canada still use NOAA and CHS sources.
 
 ### Search everywhere
