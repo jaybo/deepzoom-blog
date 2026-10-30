@@ -4,16 +4,15 @@ date: 2026-07-15 15:41:20 -0800
 categories: release 
 lastmod: 026-07-15 15:41:20 -0800
 draft: false
+og_image: /assets/images/VectorChart.png
 ---
 
 
-<div style="background-color: #eee; margin-top: 20px">
+<div class="dz-embed">
 <iframe id="theIframeSpatialCurrents"
     title="SpatialCurrents"
-    width="98%"
-    style="min-width: 375px; height: 100vh; max-height: 720px"
     allow="clipboard-read; clipboard-write"
-    src="https://www.deepzoom.com/s/20260715-pdNbrnHXa8">
+    src="{{ site.deepzoom_host }}/s/20260715-pdNbrnHXa8">
 </iframe>
 </div>
 
@@ -48,6 +47,8 @@ You'll likely notice discrepancies between Spatial Currents and the NOAA/CHS cur
 
 
 The practical rule: **where a current station exists, trust it.** Use Spatial Currents for what the stations can't give you — the shape and timing of the flow *between* stations, across a whole region at once. Expect the biggest disagreements precisely in the strong, narrow rapids boaters care about most, for all the reasons above.
+
+Note: As an experiment I had Claude write most of this blog post, which accounts for it's discordant style from the rest of these blog posts.
 
 
 ## Sources

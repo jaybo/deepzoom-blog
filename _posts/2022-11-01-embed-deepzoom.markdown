@@ -6,28 +6,26 @@ lastmod: 2022-10-01T20:44:01.227Z
 og_image: /assets/images/trip-icw.png
 draft: false
 ---
-## Embedding DeepZoom in your own website
+
+### Embedding DeepZoom in your own website
 
 DeepZoom can be embedded in your own website via an iframe.  You can specify a particular trip or page to be loaded via the Url passed in the `src` parameter.
 Here are some typical examples
 
-<div>
+<div class="dz-embed">
     <iframe id="iFrame1"
         title="DeepZoom embedded iFrame1"
-        width="100%"
-        style="min-width: 365px; height: 85vh; max-height: 700px"
-        src="https://www.deepzoom.com/trip/pxv5bhd2">
+        src="{{ site.deepzoom_host }}/trip/pxv5bhd2">
     </iframe>
 </div>
 
 
 The HTML:
 ```
-<div>
+<div style="margin-top: 20px">
     <iframe id="iFrame1"
         title="DeepZoom embedded iFrame1"
-        width="100%"
-        style="min-width: 365px; height: 85vh; max-height: 700px"
+        style="display: block; width: calc(100% - clamp(8px, 18vw - 64px, 44px)); height: 85vh; max-height: 720px; border: 0; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3)"
         src="https://www.deepzoom.com/trip/pxv5bhd2">
     </iframe>
 </div>
@@ -80,12 +78,10 @@ Or you could have more elaborate scenarios with buttons to load different marker
 
 Hey, how do you get from Hoboken to Carnegie Hall?
 
-<div>
+<div class="dz-embed">
 <iframe id="theIframe2"
     title="DeepZoom embedded"
-    width="100%"
-    style="min-width: 365px; height: 85vh; max-height: 700px"
-    src="https://www.deepzoom.com/trip/4gawfsfg">
+    src="{{ site.deepzoom_host }}/trip/4gawfsfg">
 </iframe>
 </div>
 

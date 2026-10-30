@@ -7,13 +7,11 @@ draft: false
 ---
 
 
-<div style="background-color: #eee; margin-top: 20px">
+<div class="dz-embed">
 <iframe id="theIframeCanadaTides"
     title="DeepZoom Canada"
-    width="98%"
-    style="min-width: 375px; height: 100vh; max-height: 720px"
     allow="clipboard-read; clipboard-write"
-    src="https://www.deepzoom.com/s/20260407-0ujdWAm9ZW">
+    src="{{ site.deepzoom_host }}/s/20260407-0ujdWAm9ZW">
 </iframe>
 </div>
 

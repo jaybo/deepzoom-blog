@@ -3,7 +3,10 @@
 ---
 @charset "utf-8";
 
-// Override sidebar width variables (must be before @import to work with !default)
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+// Override theme variables (must be before @import to work with !default)
+$sans-serif: "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $right-sidebar-width-narrow: 180px; // default: 200px
 $right-sidebar-width: 180px;        // default: 300px
 $right-sidebar-width-wide: 180px;   // default: 400px
@@ -16,6 +19,73 @@ $right-sidebar-width-wide: 180px;   // default: 400px
 //   font-size: 1.0em; /* Change 18px to your desired base font size */
 // }
 
+a {
+    color: #6060cb;
+
+    &:visited {
+        color: #6464db;
+    }
+}
+
+body {
+    font-weight: 500;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 1em 0 0.5em;
+    font-weight: 600;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.site-title {
+    font-weight: 350;
+    font-size: 0.9em;
+}
+
+.site-subtitle {
+    font-size: 0.7em;
+}
+
+.pagination ul {
+    font-weight: 700;
+}
+
 .page__title {
     font-size: 1.2em;
+}
+
+// Embedded DeepZoom map. The page's 16px side padding plus an extra right
+// margin stay free so touch users can scroll the page instead of the map.
+// The extra margin grows from 8px on narrow phones (<= 400px) to 44px on
+// screens 600px and wider.
+.dz-embed {
+    margin-top: 20px;
+    background-color: #fff;
+
+    iframe {
+        display: block;
+        width: calc(100% - clamp(8px, 18vw - 64px, 44px));
+        height: 85vh;
+        max-height: 720px;
+        border: 0;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    }
+}
+
+@media print {
+    body {
+        font-weight: 800;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 0;
+        color: rgb(36, 36, 36);
+    }
+
+    h1 { font-size: 1.75rem; }
+    h2 { font-size: 1.7rem; }
+    h3 { font-size: 1.65rem; }
 }

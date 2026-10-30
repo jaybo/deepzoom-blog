@@ -10,6 +10,27 @@ draft: false
 
 <div style="background-color: #e0ecff; " >
 <span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+v 3.29.0
+</span>  
+<span style="float: right; margin: 6px;"  >
+2026.10.28
+</span>
+<hr style="clear: both"/> 
+</div>
+
+#### New features
+- UI refresh
+- Tracks fully supported, peer of routes
+- worldwide tides
+- experimental vector charts
+- search everywhere
+
+#### Bugs fixed
+- Major perf upgrade
+
+
+<div style="background-color: #e0ecff; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
 v 3.26.0
 </span>  
 <span style="float: right; margin: 6px;"  >

@@ -23,6 +23,10 @@ url: "https://blog.deepzoom.com" # the base hostname & protocol for your site, e
 repository: "jaybo/deepzoom-blog"
 logo: "/assets/images/arrow.png"
 
+# Host for embedded DeepZoom iframes in posts. Switch to test the staging site:
+# deepzoom_host: "https://deepzoom-test.azurewebsites.net"
+deepzoom_host: "https://www.deepzoom.com"
+
 future: true
 
 twitter_username: jayborseth

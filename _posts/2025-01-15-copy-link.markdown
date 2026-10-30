@@ -28,18 +28,16 @@ The goal here is to make sharing easier without the necessity of logging in, cre
 
 #### Clipboard Examples
 
-[Largest Deception Pass Ebb in 2025 (December 4)](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250101-6TTprQ1xJf')"}
-[Current West Sea Otter Buoy conditions near Cape Caution](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250101-y2NOayqC7F')"}
-[Wind and Weather around Cape Cod](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20250103-qxypyuHiGO')"}
-[Statue of Liberty current](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', 'https://www.deepzoom.com/s/20260917-o0HnatmgUW')"}
+[Largest Deception Pass Ebb in 2025 (December 4)](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', '{{ site.deepzoom_host }}/s/20250101-6TTprQ1xJf')"}
+[Current West Sea Otter Buoy conditions near Cape Caution](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', '{{ site.deepzoom_host }}/s/20250101-y2NOayqC7F')"}
+[Wind and Weather around Cape Cod](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', '{{ site.deepzoom_host }}/s/20250103-qxypyuHiGO')"}
+[Statue of Liberty current](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', '{{ site.deepzoom_host }}/s/20260917-o0HnatmgUW')"}
 
-<div>
+<div class="dz-embed">
 <iframe id="theIframe"
     title="DeepZoom embedded"
-    width="100%"
-    style="min-width: 375px; height: 85vh; max-height: 700px"
     allow="clipboard-read; clipboard-write"
-    src="https://www.deepzoom.com/trip/pxv5bhd2">
+    src="{{ site.deepzoom_host }}/trip/pxv5bhd2">
 </iframe>
 </div>
 

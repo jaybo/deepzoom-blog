@@ -6,13 +6,11 @@ lastmod: "2026-05-03:34:20.077Z"
 og_image: /assets/images/radar.png
 ---
 
-<div style="background-color: #eee; margin-top: 20px">
+<div class="dz-embed">
 <iframe id="theIframeRadar"
     title="DeepZoom radar"
-    width="98%"
-    style="min-width: 375px; height: 100vh; max-height: 720px"
     allow="clipboard-read; clipboard-write"
-    src="https://www.deepzoom.com/s/20260505-0ybL1FDpiH">
+    src="{{ site.deepzoom_host }}/s/20260505-0ybL1FDpiH">
 </iframe>
 </div>
 
