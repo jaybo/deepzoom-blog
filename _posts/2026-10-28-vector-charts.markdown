@@ -57,6 +57,8 @@ Tide station coverage is now worldwide using data from <a href="https://openwate
     > Open Waters</a>.  These stations are mostly derived from TICON-4.
 Tide stations in USA and Canada still use NOAA and CHS sources.
 
+Note that tide heights are measured from a [chart datum](https://en.wikipedia.org/wiki/Chart_datum){:target="_blank"}, and the datum varies by source: NOAA uses Mean Lower Low Water (MLLW), CHS uses Lower Low Water, Large Tide (LLWLT), while many other hydrographic offices use Lowest Astronomical Tide (LAT), so heights from different sources may not be directly comparable.
+
 ### Search everywhere
 
 When clicking on a public marker, information added to DeepZoom is displayed along with a new "Search the web" button.  
