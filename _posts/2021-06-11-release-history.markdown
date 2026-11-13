@@ -9,7 +9,27 @@ draft: false
 
 
 <div style="background-color: #e0ecff; " >
-<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;"> 
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;">
+v 3.30.0
+</span>
+<span style="float: right; margin: 6px;"  >
+2026.11.13
+</span>
+<hr style="clear: both"/>
+</div>
+
+#### New features
+- AIS vessel tracks
+- live and historical tide and current measurements
+- draggable tide graph slider
+- `mapAIS` and `UI` scripting events
+
+#### Bugs fixed
+- Tide event times off by 1 hour after BC DST change
+
+
+<div style="background-color: #e0ecff; " >
+<span style="float: left; font-size: 24px; font-weight: bold; margin: 6px;">
 v 3.29.0
 </span>  
 <span style="float: right; margin: 6px;"  >
