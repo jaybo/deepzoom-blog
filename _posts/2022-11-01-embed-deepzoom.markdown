@@ -14,6 +14,7 @@ Here are some typical examples
 
 <div class="dz-embed">
     <iframe id="iFrame1"
+        loading="lazy"
         title="DeepZoom embedded iFrame1"
         src="{{ site.deepzoom_host }}/trip/pxv5bhd2">
     </iframe>
@@ -80,6 +81,7 @@ Hey, how do you get from Hoboken to Carnegie Hall?
 
 <div class="dz-embed">
 <iframe id="theIframe2"
+    loading="lazy"
     title="DeepZoom embedded"
     src="{{ site.deepzoom_host }}/trip/4gawfsfg">
 </iframe>

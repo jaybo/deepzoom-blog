@@ -81,6 +81,7 @@ The Pilot Charts layer in DeepZoom is an ideal tool for modeling this.  Here's m
 
 <div class="dz-embed">
 <iframe id="theIframeOliver"
+    loading="lazy"
     title="DeepZoom: Oliver Widger's route"
     style="height: 90vh"
     allow="clipboard-read; clipboard-write"

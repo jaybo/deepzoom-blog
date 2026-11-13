@@ -9,6 +9,7 @@ draft: false
 
 <div class="dz-embed">
 <iframe id="theIframeCanadaTides"
+    loading="lazy"
     title="DeepZoom Canada"
     allow="clipboard-read; clipboard-write"
     src="{{ site.deepzoom_host }}/s/20260407-0ujdWAm9ZW">

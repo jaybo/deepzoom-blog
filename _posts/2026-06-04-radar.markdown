@@ -8,6 +8,7 @@ og_image: /assets/images/radar.png
 
 <div class="dz-embed">
 <iframe id="theIframeRadar"
+    loading="lazy"
     title="DeepZoom radar"
     allow="clipboard-read; clipboard-write"
     src="{{ site.deepzoom_host }}/s/20260505-0ybL1FDpiH">

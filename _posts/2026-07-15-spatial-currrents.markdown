@@ -10,6 +10,7 @@ og_image: /assets/images/VectorChart.png
 
 <div class="dz-embed">
 <iframe id="theIframeSpatialCurrents"
+    loading="lazy"
     title="SpatialCurrents"
     allow="clipboard-read; clipboard-write"
     src="{{ site.deepzoom_host }}/s/20260715-pdNbrnHXa8">

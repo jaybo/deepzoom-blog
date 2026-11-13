@@ -8,7 +8,7 @@ og_image: "/assets/images/og_image.png"
 
 ### Watch the video:  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l9NjH90QdFI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/l9NjH90QdFI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Some history
 

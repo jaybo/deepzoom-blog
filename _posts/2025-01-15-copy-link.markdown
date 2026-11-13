@@ -34,7 +34,8 @@ The goal here is to make sharing easier without the necessity of logging in, cre
 [Statue of Liberty current](#link){: .btn .btn--inverse onclick="changeSrc('theIframe', '{{ site.deepzoom_host }}/s/20260917-o0HnatmgUW')"}
 
 <div class="dz-embed">
-<iframe id="theIframe"
+<iframe id="theCopyLinkframe"
+    loading="lazy"
     title="DeepZoom embedded"
     allow="clipboard-read; clipboard-write"
     src="{{ site.deepzoom_host }}/trip/pxv5bhd2">

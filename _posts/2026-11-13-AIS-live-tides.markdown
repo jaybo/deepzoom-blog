@@ -44,6 +44,7 @@ Partly to visualize this phenomenon, but also to give visible confirmation of th
 
 <div class="dz-embed">
 <iframe id="theIframeLiveTides"
+    loading="lazy"
     title="LiveTides"
     allow="clipboard-read; clipboard-write"
     src="{{ site.deepzoom_host }}/trip/rx7wasn7">
