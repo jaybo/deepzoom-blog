@@ -63,7 +63,8 @@ Units in the graph follow your settings (12/24 h, °F/°C, ft/m, kt/mph/km/h).
 
 ## Tides and currents
 
-You can now selectively disable either tides or currents in the flyout beneath the opacity slider.
+- Change time by dragging the vertical time bar in the tide graph display.
+- You can now selectively disable either tides or currents in the flyout beneath the opacity slider.
 
 ## Weather
 
