@@ -16,7 +16,7 @@ After a hiatus of many years, 3D has made a comeback.  3D is mostly useful for o
 
 **All** DeepZoom features work in 3D.  Editing routes (up to 85° north and south), weather (including over the poles), tides and currents, pilot charts and 2D currents.   
 
-But 3D and terrain also consume more resources in both bandwidth, CPU, and GPU.  If your trip is seeming a bit slugish, try swithing back to 2D.
+But 3D and terrain also consume more resources in both bandwidth, CPU, and GPU.  If your trip is seeming a bit sluggish, try switching back to 2D.
 
 <img src="/assets/images/3D.png"  style="box-shadow: 4px 4px 4px 0px rgb(128,128,128); margin-top: 12px; margin-bottom: 12px "   width="90%" />{: .border .align-center .toc}
 
@@ -30,7 +30,7 @@ Use the 2D and 3D buttons to choose between mercator projection and a globe disp
 
 - **North up** Set rotation and tilt to zero, but allow modification.
 - **Orient chart along the route** rotate the map automatically to follow the selected route.
-- **Orient chart to compass** rotate the map automatically to always point the top of the chart to true North. This option is only available on devices with a built in compass.
+- **Orient chart to compass** rotate the map automatically so the top of the chart points the way the device is facing. This option is only available on devices with a built in compass.
 - **Disable rotation and tilt** set rotation and tilt to zero and prevent changes.
 
 While tracking, select **Orient chart to compass** to keep the chart aligned with your heading.
@@ -94,5 +94,5 @@ Scripting documentation: [https://www.deepzoom.com/doc/index.html](https://www.d
 - Fixed trips and searches whose bounding box spans the 180° meridian.
 
 
-Try out 3D by sailing into the Loften Islands to get some yummy fresh Lutefisk: [https://www.deepzoom.com/trip/q2gartba](https://www.deepzoom.com/trip/q2gartba){:target="_blank"}
+Try out 3D by sailing into the Lofoten Islands to get some yummy fresh Lutefisk: [https://www.deepzoom.com/trip/q2gartba](https://www.deepzoom.com/trip/q2gartba){:target="_blank"}
 {: .notice--warning}
