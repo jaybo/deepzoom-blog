@@ -16,6 +16,8 @@ After a hiatus of many years, 3D has made a comeback.  3D is mostly useful for o
 
 **All** DeepZoom features work in 3D.  Editing routes (up to 85° north and south), weather (including over the poles), tides and currents, pilot charts and 2D currents.   
 
+But 3D and terrain also consume more resources in both bandwidth, CPU, and GPU.  If your trip is seeming a bit slugish, try swithing back to 2D.
+
 <img src="/assets/images/3D.png"  style="box-shadow: 4px 4px 4px 0px rgb(128,128,128); margin-top: 12px; margin-bottom: 12px "   width="90%" />{: .border .align-center .toc}
 
 
